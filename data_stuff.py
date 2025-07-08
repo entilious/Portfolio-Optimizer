@@ -77,12 +77,3 @@ trade_universe = {
 }
 
 get_sector_data('ENERGY', trade_universe)
-
-
-
-
-    
-
-    
-
-        
