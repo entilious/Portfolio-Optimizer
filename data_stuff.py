@@ -1,14 +1,12 @@
 import yfinance as yf
 import pandas as pd
-import numpy as np
-import seaborn as sns
 import os
 from tqdm import tqdm
 
 
 # helper function to get the sector-wiise data
 
-def get_sector_data(sector, trade_universe):
+def get_sector_data(trade_universe, sector=None):
     """
     Fetches the sector-wise data respective to the trade_universe dictionary.
 
@@ -34,11 +32,9 @@ def get_sector_data(sector, trade_universe):
 
             print(f"\nSector : {sector}\nDowloading stock info for {ticker}")
 
-            data = yf.download(ticker, period="5Y")
-
-            df = pd.DataFrame(data)
-
-            df.to_csv(f"{sector}/{ticker}_5Y_data.csv")
+            data = yf.Ticker(ticker)
+            df = data.history(period="5y", auto_adjust=False)
+            df.to_csv(f"{sec}/{ticker}_5Y_data.csv")
 
 
     else: # if the sector is not provided, download all sectors' data
@@ -61,10 +57,8 @@ def get_sector_data(sector, trade_universe):
 
                 print(f"\nSector : {sec}\nDowloading stock info for {ticker}")
 
-                data = yf.download(ticker, period="5Y")
-
-                df = pd.DataFrame(data)
-
+                data = yf.Ticker(ticker)
+                df = data.history(period="5y", auto_adjust=False)
                 df.to_csv(f"{sec}/{ticker}_5Y_data.csv")
 
         return print(f"Sector data downloaded successfully.")
@@ -72,8 +66,17 @@ def get_sector_data(sector, trade_universe):
 trade_universe = {
     'TECH' : ['CRM', 'PLTR', 'NVDA', 'GOOGL', 'NFLX'],
     'PHARMA' : ['PFE', 'CRSP', 'ABBV', 'GILD', 'JNJ'],
-    'ENERGY' : ['VLO', 'AISI', 'NAT', 'NINE', 'EOG'],
-    'DEFENSE' : ['KTOE', 'SARO', 'RKLB', 'SPCE', 'KITT']
+    'ENERGY' : ['VLO', 'NAT', 'NINE', 'EOG'],
+    'DEFENSE' : ['SARO', 'RKLB', 'SPCE', 'KITT']
 }
 
-get_sector_data('ENERGY', trade_universe)
+get_sector_data(trade_universe)
+
+
+
+
+    
+
+    
+
+        
