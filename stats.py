@@ -21,13 +21,13 @@ def compute_daily_pct_change(df):
     return pct_change_df  # keep it as is for calculations later
 
 # helper function to calculatte annualied return for a stock based on daily returns
-def annualized_return(daily_returns):
+def annualized_return(daily_returns: pd.Series, periods: int = 252):
     compounded = np.prod(1 + daily_returns)
     print(compounded, len(daily_returns))
-    return np.power(compounded, (252 / len(daily_returns))) - 1
+    return np.power(compounded, (periods / len(daily_returns))) - 1
 
 
-def calc_sortino(R: pd.Series, MAR: float) -> float:
+def calc_sortino(R: pd.Series, MAR: float, periods: int = 252) -> float:
 
     """    
     Calculate the Sortino ratio for a given series of returns.
@@ -37,6 +37,8 @@ def calc_sortino(R: pd.Series, MAR: float) -> float:
         Series of returns (daily, monthly, etc.).
     MAR : float
         Minimum acceptable return (MAR), typically the risk-free rate or zero.
+    periods : int, default=252
+        Number of periods in a year (e.g., 252 for daily returns).
     -------
     Returns : float
         The Sortino ratio, which is the ratio of the average excess return to the downside deviation.
@@ -50,7 +52,7 @@ def calc_sortino(R: pd.Series, MAR: float) -> float:
     # 2 calculate downside devaiation. Formula: sqrt([sum(min(R-Mar,0))^2] / n)
     neg_ret = np.minimum(R-MAR, 0) # isolating the negative returns
     down_dev = np.sqrt(np.mean(np.square(neg_ret))) # obtain downside devaition; this is daily downside deviation
-    down_dev_annualized = down_dev * np.sqrt(252)  # annualize the downside deviation
+    down_dev_annualized = down_dev * np.sqrt(periods)  # annualize the downside deviation
     
     # 3 calculate sortino ratio
     sortino = (anr - MAR) / down_dev_annualized if down_dev_annualized != 0 else np.nan # calc sortino ratio ; handle division by zero error
