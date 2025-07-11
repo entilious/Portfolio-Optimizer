@@ -49,10 +49,11 @@ def calc_sortino(R: pd.Series, MAR: float) -> float:
 
     # 2 calculate downside devaiation. Formula: sqrt([sum(min(R-Mar,0))^2] / n)
     neg_ret = np.minimum(R-MAR, 0) # isolating the negative returns
-    down_dev = np.sqrt(np.mean(np.square(neg_ret))) # obtain downside devaition
+    down_dev = np.sqrt(np.mean(np.square(neg_ret))) # obtain downside devaition; this is daily downside deviation
+    down_dev_annualized = down_dev * np.sqrt(252)  # annualize the downside deviation
     
     # 3 calculate sortino ratio
-    sortino = (anr - MAR) / down_dev if down_dev != 0 else np.nan # calc sortino ratio ; handle division by zero error
+    sortino = (anr - MAR) / down_dev_annualized if down_dev_annualized != 0 else np.nan # calc sortino ratio ; handle division by zero error
     
     return sortino
 
