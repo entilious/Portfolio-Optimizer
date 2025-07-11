@@ -27,6 +27,37 @@ def annualized_return(daily_returns: pd.Series, periods: int = 252):
     return np.power(compounded, (periods / len(daily_returns))) - 1
 
 
+# helper function to calculate the Sharpe Ratio 
+def calc_sharpe(R: pd.Series, MAR: float, periods : int = 252) -> float:
+
+    """    
+    Calculate the Sharpe ratio for a given series of returns.
+    Parameters
+    ----------  
+    R : pd.Series
+        Series of returns (daily, monthly, etc.).
+    MAR : float
+        Minimum acceptable return (MAR), typically the risk-free rate or zero.
+    -------
+    Returns : float
+        The Sharpe ratio, which is the ratio of the average excess return to the deviation.
+    """
+
+    # 1 calculate geometric mean of returns
+
+    # anr : annualized return
+    anr = annualized_return(R)
+
+    # 2. Calculate Sharpe ratio using: (annualized return - annualized MAR) / annualized standard deviation
+    std_dev = np.std(R, ddof=0) # obtain standard deviation; this is daily standard deviation
+    std_dev_annualized = std_dev * np.sqrt(periods)  # annualize the standard deviation
+
+    # 3 calculate sortino ratio
+    sharpe = (anr - MAR) / std_dev_annualized if std_dev_annualized != 0 else np.nan # calc sortino ratio ; handle division by zero error
+    
+    return sharpe
+
+
 def calc_sortino(R: pd.Series, MAR: float, periods: int = 252) -> float:
 
     """    
@@ -63,6 +94,7 @@ def calc_sortino(R: pd.Series, MAR: float, periods: int = 252) -> float:
 # Calculating individual sortinos because we are building a portfolio from scratch and not using a pre-defined portfolio.
 
 sortino_dict = {}
+sharpe_dict = {}
 
 for sec in os.listdir("Data/"):
     sec = os.path.join("Data", sec)  # Ensure the path is correct
@@ -80,9 +112,14 @@ for sec in os.listdir("Data/"):
             daily_returns = df['Daily_Pct_Change'].dropna()
             rf_annual = 0.02 # for now MAR is set to risk-free rate; to be changed to index return later
             sortino_ratio = calc_sortino(daily_returns, rf_annual)
+            sharpe_ratio = calc_sharpe(daily_returns, rf_annual)
             sortino_dict[ticker.split("_5Y_data.csv")[0]] = sortino_ratio
+            sharpe_dict[ticker.split("_5Y_data.csv")[0]] = sharpe_ratio
+
             print(f"Processed {ticker} in sector {sec}")
 
 
 df_sortino = pd.DataFrame.from_dict(sortino_dict, orient='index', columns=['Sortino Ratio'])
-print(df_sortino)
+df_sharpe = pd.DataFrame.from_dict(sharpe_dict, orient='index', columns=['Sharpe Ratio'])
+df_ratios = df_sortino.join(df_sharpe)
+print(df_ratios)
