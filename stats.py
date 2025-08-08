@@ -110,9 +110,9 @@ for sec in os.listdir("Data/"):
 
             # Proceed to calculate sortino ratio for the stock
             daily_returns = df['Daily_Pct_Change'].dropna()
-            rf_annual = 0.02 # for now MAR is set to risk-free rate; to be changed to index return later
-            sortino_ratio = calc_sortino(daily_returns, rf_annual)
-            sharpe_ratio = calc_sharpe(daily_returns, rf_annual)
+            mar = 0.1 # for now MAR is set to risk-free rate; to be changed to index return later
+            sortino_ratio = calc_sortino(daily_returns, mar)
+            sharpe_ratio = calc_sharpe(daily_returns, mar)
             sortino_dict[ticker.split("_5Y_data.csv")[0]] = sortino_ratio
             sharpe_dict[ticker.split("_5Y_data.csv")[0]] = sharpe_ratio
 
