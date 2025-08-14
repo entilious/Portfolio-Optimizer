@@ -19,11 +19,32 @@ BENCHMARK_ETFS = {
 }
 
 TRADE_UNIVERSE = {
-    "TECH":    ["CRM", "PLTR", "NVDA", "GOOGL", "NFLX"],
-    "PHARMA":  ["PFE", "CRSP", "ABBV", "GILD", "JNJ"],
-    "ENERGY":  ["VLO", "NAT", "NINE", "EOG"],
-    "DEFENSE": ["SARO", "RKLB", "SPCE", "KITT"],
+    "TECH": [
+        "SNPS", "CDNS", "TER", "MCHP", "MPWR",
+        "ANSS", "KEYS", "FTNT", "SMTC", "NTNX"
+    ],
+    "PHARMA": [
+        "BMRN", "VTRS", "NBIX", "TECH", "INSM",
+        "HRMY", "SGEN", "AMGN", "REGN", "VRTX"
+    ],
+    "ENERGY": [
+        "FANG", "PXD", "HES", "OXY", "MUR",
+        "APA", "DVN", "SM", "EQT", "AR"
+    ],
+    "DEFENSE": [
+        "HII", "TDG", "CW", "HEI", "KTOS",
+        "LDOS", "BWXT", "MRCY", "AXON", "AVAV"
+    ],
+    "INDUSTRIALS": [
+        "EMR", "ROK", "XYL", "IEX", "DOV",
+        "ALLE", "AME", "LECO", "PNR", "ITT"
+    ],
+    "CONSUMER": [
+        "YETI", "CROX", "DKS", "RH", "BC",
+        "DECK", "PVH", "SKX", "TPR", "COLM"
+    ]
 }
+
 
 
 def ensure_dir(path: str):
