@@ -10,7 +10,7 @@ import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
 
-import yfinance as yf  # fetch market data from Yahoo Finance
+import yfinance as yf  
 
 class PortfolioOptimizer:
     """
@@ -33,7 +33,7 @@ class PortfolioOptimizer:
 
     def load_asset_data(self, data_path="Data/"):
         """
-        Load processed data
+        Load processed data 
 
         (Modified) Now downloads 5Y daily price data from Yahoo Finance and computes
         daily percentage change to match the CSV-based workflow.
