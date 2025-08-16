@@ -3264,3 +3264,6528 @@ NEM    0.03605
 dtype: float64","Ticker
 NEM    0.345062
 dtype: float64"
+2020-09-30,INSM,PHARMA,0.18477387615096852,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2020-09-30,AXON,DEFENSE,0.2548847083433358,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-09-30,DKS,CONSUMER_DISCRETIONARY,0.16815090671968944,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-09-30,RH,CONSUMER_DISCRETIONARY,0.09819773244260917,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2020-09-30,PVH,CONSUMER_DISCRETIONARY,0.06588115175631946,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2020-09-30,IVZ,FINANCIALS,0.14090827052629312,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2020-09-30,DUK,UTILITIES,0.08512089951136648,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2020-09-30,ED,UTILITIES,0.0020824545326798916,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2020-10-31,NTNX,TECH,0.021145986366619955,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2020-10-31,INSM,PHARMA,0.07692494324865087,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2020-10-31,AXON,DEFENSE,0.23762958123056446,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-10-31,CROX,CONSUMER_DISCRETIONARY,0.08281872252832834,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2020-10-31,DKS,CONSUMER_DISCRETIONARY,0.09454598491490462,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-10-31,TPR,CONSUMER_DISCRETIONARY,0.14699643909731902,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2020-10-31,IVZ,FINANCIALS,0.1161928427465295,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2020-10-31,DUK,UTILITIES,0.038730694360671974,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2020-10-31,AEP,UTILITIES,0.07926100554864238,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2020-10-31,WEC,UTILITIES,0.012386195300814591,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2020-10-31,MLM,MATERIALS,0.09336760465793134,"Ticker
+MLM    0.239425
+dtype: float64","Ticker
+MLM    0.277983
+dtype: float64"
+2020-11-30,NTNX,TECH,0.008076852760174877,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2020-11-30,INSM,PHARMA,0.1331080900945602,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2020-11-30,AXON,DEFENSE,0.3372277536683371,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-11-30,CROX,CONSUMER_DISCRETIONARY,0.07172520811946609,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2020-11-30,DKS,CONSUMER_DISCRETIONARY,0.03830545982863787,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-11-30,RH,CONSUMER_DISCRETIONARY,0.02176935193740026,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2020-11-30,TPR,CONSUMER_DISCRETIONARY,0.21944163005180675,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2020-11-30,IVZ,FINANCIALS,0.1662996339117514,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2020-11-30,ALB,MATERIALS,0.004046019628232772,"Ticker
+ALB   -0.01055
+dtype: float64","Ticker
+ALB    0.527728
+dtype: float64"
+2020-12-31,SNPS,TECH,0.12714114732926238,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2020-12-31,MPWR,TECH,0.025285350803571735,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2020-12-31,NTNX,TECH,0.051993748531111376,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2020-12-31,SM,ENERGY,0.02376287574263431,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2020-12-31,AXON,DEFENSE,0.21719548832820804,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-12-31,YETI,CONSUMER_DISCRETIONARY,0.00809385007289988,"Ticker
+YETI   -0.074105
+dtype: float64","Ticker
+YETI    0.50059
+dtype: float64"
+2020-12-31,CROX,CONSUMER_DISCRETIONARY,0.08332909823080312,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2020-12-31,DKS,CONSUMER_DISCRETIONARY,0.0025987414677106245,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-12-31,TPR,CONSUMER_DISCRETIONARY,0.285650452488461,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2020-12-31,PNC,FINANCIALS,0.007373353661304622,"Ticker
+PNC    0.158364
+dtype: float64","Ticker
+PNC    0.287035
+dtype: float64"
+2020-12-31,IVZ,FINANCIALS,0.1474267093150035,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2020-12-31,SO,UTILITIES,0.020149184029321962,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2021-01-31,SNPS,TECH,0.01853105421862285,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2021-01-31,KEYS,TECH,0.1513184449182802,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-01-31,NTNX,TECH,0.00599572535165424,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2021-01-31,BIIB,PHARMA,0.014392416693773658,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-01-31,SM,ENERGY,0.022161130625365694,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-01-31,AXON,DEFENSE,0.304555893983749,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-01-31,CROX,CONSUMER_DISCRETIONARY,0.025155010168133037,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-01-31,DKS,CONSUMER_DISCRETIONARY,0.07105602481051607,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-01-31,TPR,CONSUMER_DISCRETIONARY,0.23671403521536097,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-01-31,SJM,CONSUMER_STAPLES,0.003709197050419548,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-01-31,IVZ,FINANCIALS,0.1464110669641228,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2021-02-28,CDNS,TECH,0.03547423726229085,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2021-02-28,KEYS,TECH,0.1166542439566213,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-02-28,BIIB,PHARMA,0.010361816121431187,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-02-28,SM,ENERGY,0.03779471129397611,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-02-28,AXON,DEFENSE,0.23764929851457028,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-02-28,CROX,CONSUMER_DISCRETIONARY,0.03978475304882367,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-02-28,DKS,CONSUMER_DISCRETIONARY,0.05345173104842441,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-02-28,TPR,CONSUMER_DISCRETIONARY,0.29937490320250526,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-02-28,SJM,CONSUMER_STAPLES,0.05184021966312725,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-02-28,IVZ,FINANCIALS,0.11761408588884538,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2021-03-31,CDNS,TECH,0.0356863780476449,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2021-03-31,KEYS,TECH,0.0534821192352771,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-03-31,BIIB,PHARMA,0.015693580961053822,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-03-31,SM,ENERGY,0.058127453950237384,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-03-31,AXON,DEFENSE,0.1192091382263069,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-03-31,CROX,CONSUMER_DISCRETIONARY,0.026852678482760017,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-03-31,DKS,CONSUMER_DISCRETIONARY,0.018339747184513335,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-03-31,RH,CONSUMER_DISCRETIONARY,0.029354214794233786,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2021-03-31,TPR,CONSUMER_DISCRETIONARY,0.25327019680300417,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-03-31,SJM,CONSUMER_STAPLES,0.18572706169931785,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-03-31,IVZ,FINANCIALS,0.11657530389351922,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2021-03-31,DUK,UTILITIES,0.020217603113937978,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-03-31,WEC,UTILITIES,0.06746452360813379,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2021-04-30,KEYS,TECH,0.09733904402336774,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-04-30,FTNT,TECH,0.003441644981729365,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-04-30,BIIB,PHARMA,0.009461872978833788,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-04-30,SM,ENERGY,0.052895839423731696,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-04-30,AXON,DEFENSE,0.09333092006162412,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-04-30,CROX,CONSUMER_DISCRETIONARY,0.05740090757339432,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-04-30,DKS,CONSUMER_DISCRETIONARY,0.018249512561792674,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-04-30,RH,CONSUMER_DISCRETIONARY,0.042521649309660535,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2021-04-30,TPR,CONSUMER_DISCRETIONARY,0.2271926794079706,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-04-30,SJM,CONSUMER_STAPLES,0.1398404785087746,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-04-30,IVZ,FINANCIALS,0.0601508133595587,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2021-04-30,DUK,UTILITIES,0.01988357355572817,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-04-30,SO,UTILITIES,0.03607167147082216,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2021-04-30,AEP,UTILITIES,0.042347509456769905,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2021-04-30,WEC,UTILITIES,0.09987188332599484,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2021-05-31,FTNT,TECH,0.10454202484679002,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-05-31,BIIB,PHARMA,0.008937714593921859,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-05-31,SM,ENERGY,0.06688747579803432,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-05-31,AR,ENERGY,0.014945466258951393,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-05-31,AXON,DEFENSE,0.03558441053069665,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-05-31,YETI,CONSUMER_DISCRETIONARY,0.014824966801336345,"Ticker
+YETI   -0.074105
+dtype: float64","Ticker
+YETI    0.50059
+dtype: float64"
+2021-05-31,CROX,CONSUMER_DISCRETIONARY,0.06045875672154543,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-05-31,TPR,CONSUMER_DISCRETIONARY,0.14255812789033545,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-05-31,SJM,CONSUMER_STAPLES,0.13556754349629443,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-05-31,KHC,CONSUMER_STAPLES,0.1997383782964006,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2021-05-31,IVZ,FINANCIALS,0.09139564713795056,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382373
+dtype: float64"
+2021-05-31,DUK,UTILITIES,0.08653046641028173,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-05-31,AEP,UTILITIES,0.03802902121708551,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2021-06-30,KEYS,TECH,0.0285506738436747,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-06-30,FTNT,TECH,0.16718058498455335,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-06-30,BIIB,PHARMA,0.047525380870755314,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-06-30,SM,ENERGY,0.12777856353137515,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-06-30,AXON,DEFENSE,0.04962536193091525,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-06-30,YETI,CONSUMER_DISCRETIONARY,0.02211741703703199,"Ticker
+YETI   -0.074105
+dtype: float64","Ticker
+YETI    0.50059
+dtype: float64"
+2021-06-30,CROX,CONSUMER_DISCRETIONARY,0.06505147873676241,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-06-30,TPR,CONSUMER_DISCRETIONARY,0.06643093507300293,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-06-30,SJM,CONSUMER_STAPLES,0.17340530645016608,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-06-30,KHC,CONSUMER_STAPLES,0.142374840849135,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2021-06-30,PNC,FINANCIALS,0.07319186499447519,"Ticker
+PNC    0.158364
+dtype: float64","Ticker
+PNC    0.287035
+dtype: float64"
+2021-06-30,DUK,UTILITIES,0.03676759169958352,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-07-31,KEYS,TECH,0.01824392849499766,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-07-31,FTNT,TECH,0.34855107301268967,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-07-31,BIIB,PHARMA,0.03575789953094124,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-07-31,SM,ENERGY,0.06178230844551749,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-07-31,AR,ENERGY,0.023634964599892838,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-07-31,CROX,CONSUMER_DISCRETIONARY,0.056346197768370895,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-07-31,DKS,CONSUMER_DISCRETIONARY,0.015507714664994558,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-07-31,SJM,CONSUMER_STAPLES,0.16119066305933363,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-07-31,KHC,CONSUMER_STAPLES,0.010463037397538053,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2021-07-31,DUK,UTILITIES,0.209428651971593,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-07-31,NUE,MATERIALS,0.0590935610546038,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2021-08-31,KEYS,TECH,0.04019706637758,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-08-31,FTNT,TECH,0.24356353410029086,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-08-31,REGN,PHARMA,0.06763778149798153,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-08-31,BIIB,PHARMA,0.0311244088759987,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-08-31,DVN,ENERGY,0.0006998919325205715,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-08-31,SM,ENERGY,0.039064480042879844,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-08-31,AR,ENERGY,0.013047144266080191,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-08-31,CROX,CONSUMER_DISCRETIONARY,0.033859252174314555,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-08-31,DKS,CONSUMER_DISCRETIONARY,0.11478898702301751,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-08-31,SJM,CONSUMER_STAPLES,0.02398141788659589,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-08-31,KMB,CONSUMER_STAPLES,0.03132500850526032,"Ticker
+KMB    0.000848
+dtype: float64","Ticker
+KMB    0.18668
+dtype: float64"
+2021-08-31,DUK,UTILITIES,0.28291350271926763,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-08-31,NUE,MATERIALS,0.07779752459859132,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2021-09-30,FTNT,TECH,0.3449642465844478,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-09-30,DVN,ENERGY,0.019117506742557744,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-09-30,SM,ENERGY,0.041242400641779794,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-09-30,AR,ENERGY,0.0841004907916936,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-09-30,CROX,CONSUMER_DISCRETIONARY,0.059494975980844814,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-09-30,DKS,CONSUMER_DISCRETIONARY,0.05654783085012332,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-09-30,SJM,CONSUMER_STAPLES,0.0441981874338856,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-09-30,KMB,CONSUMER_STAPLES,0.058249684604815714,"Ticker
+KMB    0.000848
+dtype: float64","Ticker
+KMB    0.18668
+dtype: float64"
+2021-09-30,GIS,CONSUMER_STAPLES,0.03786742774563474,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2021-09-30,DUK,UTILITIES,0.21218125063472096,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-09-30,NUE,MATERIALS,0.04203599798969017,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2021-10-31,FTNT,TECH,0.27990340048106876,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-10-31,REGN,PHARMA,0.0856827536063675,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-10-31,DVN,ENERGY,0.04101576105580931,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-10-31,SM,ENERGY,0.052279456687496034,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-10-31,AR,ENERGY,0.015453636396632265,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-10-31,DOV,INDUSTRIALS,0.053961354281354235,"Ticker
+DOV    0.110753
+dtype: float64","Ticker
+DOV    0.24277
+dtype: float64"
+2021-10-31,CROX,CONSUMER_DISCRETIONARY,0.04913963001355238,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-10-31,DKS,CONSUMER_DISCRETIONARY,0.014435677606183427,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-10-31,GIS,CONSUMER_STAPLES,0.019775916066963224,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2021-10-31,DUK,UTILITIES,0.18947348039743442,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-10-31,EXC,UTILITIES,0.14103056382286572,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2021-10-31,NUE,MATERIALS,0.05784836958384866,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2021-11-30,FTNT,TECH,0.29231898434682835,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-11-30,REGN,PHARMA,0.18427415212294398,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-11-30,DVN,ENERGY,0.1315173746295903,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-11-30,AR,ENERGY,0.020738938470047076,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-11-30,ROK,INDUSTRIALS,0.004171653623229939,"Ticker
+ROK    0.097973
+dtype: float64","Ticker
+ROK    0.311488
+dtype: float64"
+2021-11-30,CROX,CONSUMER_DISCRETIONARY,0.1236561730763514,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-11-30,DKS,CONSUMER_DISCRETIONARY,0.010720778306123665,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-11-30,NEE,UTILITIES,0.03904292548012005,"Ticker
+NEE    0.038251
+dtype: float64","Ticker
+NEE    0.272817
+dtype: float64"
+2021-11-30,EXC,UTILITIES,0.19355901994470628,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2021-12-31,FTNT,TECH,0.1747615051432764,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-12-31,ON,TECH,0.024994251064359995,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2021-12-31,HRMY,PHARMA,0.032148537178686785,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2021-12-31,REGN,PHARMA,0.06587597322881064,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-12-31,DVN,ENERGY,0.12306339219119153,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-12-31,AR,ENERGY,0.02309883775264774,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-12-31,CROX,CONSUMER_DISCRETIONARY,0.016336013410892858,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-12-31,DKS,CONSUMER_DISCRETIONARY,0.0031216317164776022,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-12-31,HRL,CONSUMER_STAPLES,0.0463588939700385,"Ticker
+HRL   -0.09012
+dtype: float64","Ticker
+HRL    0.222784
+dtype: float64"
+2021-12-31,CHD,CONSUMER_STAPLES,0.3114176479595855,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2021-12-31,NEE,UTILITIES,0.008916422938493568,"Ticker
+NEE    0.038251
+dtype: float64","Ticker
+NEE    0.272817
+dtype: float64"
+2021-12-31,EXC,UTILITIES,0.1595534356969579,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2021-12-31,NUE,MATERIALS,0.01035345774864626,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2022-01-31,FTNT,TECH,0.055128560785570956,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2022-01-31,ON,TECH,0.04949493167041857,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2022-01-31,REGN,PHARMA,0.033976050687640647,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2022-01-31,VRTX,PHARMA,0.026440148611425462,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-01-31,DVN,ENERGY,0.1637667858072746,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-01-31,DKS,CONSUMER_DISCRETIONARY,0.05673577463662774,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2022-01-31,MKC,CONSUMER_STAPLES,0.040476653369031515,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2022-01-31,CHD,CONSUMER_STAPLES,0.30963844742283175,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2022-01-31,EXC,UTILITIES,0.2643426470088937,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-02-28,FTNT,TECH,0.014828701906428488,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2022-02-28,ON,TECH,0.07738908239132795,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2022-02-28,VRTX,PHARMA,0.053584316678249894,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-02-28,DVN,ENERGY,0.1283777145719129,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-02-28,CHD,CONSUMER_STAPLES,0.17094965792521374,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2022-02-28,EXC,UTILITIES,0.46675550149112294,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-02-28,CF,MATERIALS,0.08103691478417707,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-02-28,NEM,MATERIALS,0.0070781102516764395,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2022-03-31,ON,TECH,0.06654108890311633,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2022-03-31,HRMY,PHARMA,0.03462922285335376,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-03-31,VRTX,PHARMA,0.07936966332886254,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-03-31,DVN,ENERGY,0.043106765708096156,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-03-31,EXC,UTILITIES,0.42413573288280854,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-03-31,ED,UTILITIES,0.09082928095569098,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-03-31,CF,MATERIALS,0.15456806123468605,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-03-31,NEM,MATERIALS,0.10682018413303127,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2022-04-30,HRMY,PHARMA,0.006315248887170393,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-04-30,VRTX,PHARMA,0.21825375282267354,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-04-30,APA,ENERGY,0.01714740990073892,"Ticker
+APA    0.086473
+dtype: float64","Ticker
+APA    0.526142
+dtype: float64"
+2022-04-30,DVN,ENERGY,0.023643991040921884,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-04-30,EQT,ENERGY,0.013499626858466333,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-04-30,AR,ENERGY,0.11693102338793936,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2022-04-30,HRL,CONSUMER_STAPLES,0.0734901873667385,"Ticker
+HRL   -0.09012
+dtype: float64","Ticker
+HRL    0.222784
+dtype: float64"
+2022-04-30,KMB,CONSUMER_STAPLES,0.07618786039597243,"Ticker
+KMB    0.000848
+dtype: float64","Ticker
+KMB    0.18668
+dtype: float64"
+2022-04-30,EXC,UTILITIES,0.2712522149921874,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-04-30,CF,MATERIALS,0.15982922101313454,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-04-30,NEM,MATERIALS,0.023449463334378123,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2022-05-31,AMGN,PHARMA,0.06524730652723348,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-05-31,VRTX,PHARMA,0.09763426010888132,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-05-31,OXY,ENERGY,0.05678641967799596,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-05-31,DVN,ENERGY,0.09640406866315337,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-05-31,EQT,ENERGY,0.0617071657903271,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-05-31,MRCY,DEFENSE,0.023551571005646303,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2022-05-31,EXC,UTILITIES,0.18020646910493304,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-05-31,ED,UTILITIES,0.3573787823334871,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-05-31,CF,MATERIALS,0.06108395678696912,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-06-30,AMGN,PHARMA,0.0629505207856198,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-06-30,VRTX,PHARMA,0.2584208619789555,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-06-30,OXY,ENERGY,0.09831606167897518,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-06-30,EQT,ENERGY,0.03004606414801533,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-06-30,MRCY,DEFENSE,0.015179954765977615,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2022-06-30,CPB,CONSUMER_STAPLES,0.03157916629993452,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-06-30,GIS,CONSUMER_STAPLES,0.024944928370602058,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-06-30,ED,UTILITIES,0.42404522904910197,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-06-30,CF,MATERIALS,0.054517212922811226,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-07-31,HRMY,PHARMA,0.0073855473377805615,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-07-31,AMGN,PHARMA,0.10206486109138957,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-07-31,VRTX,PHARMA,0.25343719999368736,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-07-31,OXY,ENERGY,0.15096763938141966,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-07-31,EQT,ENERGY,0.06465066514908045,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-07-31,AR,ENERGY,0.045919729021620906,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2022-07-31,CPB,CONSUMER_STAPLES,0.1497240884403108,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-07-31,ED,UTILITIES,0.22585026958925572,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-08-31,NBIX,PHARMA,0.0703190413007376,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-08-31,AMGN,PHARMA,0.02306788172693372,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-08-31,VRTX,PHARMA,0.026690558431595787,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-08-31,OXY,ENERGY,0.2263252749956878,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-08-31,EQT,ENERGY,0.11087964434573351,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-08-31,AR,ENERGY,0.06038715342540181,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2022-08-31,AVAV,DEFENSE,0.04060461652186955,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2022-08-31,CPB,CONSUMER_STAPLES,0.20950799174948945,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-08-31,GIS,CONSUMER_STAPLES,0.12887956682752655,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-08-31,ED,UTILITIES,0.10333827067556754,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-09-30,NBIX,PHARMA,0.29072869289841596,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-09-30,HRMY,PHARMA,0.06471377190048408,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-09-30,OXY,ENERGY,0.14302093342785363,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-09-30,EQT,ENERGY,0.2113190229146339,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-09-30,AVAV,DEFENSE,0.02493481864533341,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2022-09-30,GIS,CONSUMER_STAPLES,0.2298443981995592,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-09-30,CF,MATERIALS,0.03543836201359177,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-10-31,NTNX,TECH,0.0006454484200251065,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2022-10-31,NBIX,PHARMA,0.11843747551113186,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-10-31,HRMY,PHARMA,0.03892318002534837,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-10-31,AMGN,PHARMA,0.3036629826727231,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-10-31,VRTX,PHARMA,0.001133494734005576,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-10-31,OXY,ENERGY,0.10621902576037895,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-10-31,EQT,ENERGY,0.09286966135671132,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-10-31,HII,DEFENSE,0.15426764135844892,"Ticker
+HII    0.129626
+dtype: float64","Ticker
+HII    0.298074
+dtype: float64"
+2022-10-31,GIS,CONSUMER_STAPLES,0.14895244007358824,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-10-31,ALB,MATERIALS,0.028629231069186828,"Ticker
+ALB   -0.01055
+dtype: float64","Ticker
+ALB    0.527728
+dtype: float64"
+2022-10-31,CF,MATERIALS,0.006259419018393447,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-11-30,NBIX,PHARMA,0.17393071404357144,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-11-30,AMGN,PHARMA,0.15732630215846452,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-11-30,BIIB,PHARMA,0.011868022306270461,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2022-11-30,EQT,ENERGY,0.06098597475135295,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-11-30,AXON,DEFENSE,0.03226064426596496,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2022-11-30,DECK,CONSUMER_DISCRETIONARY,0.03153065993409005,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2022-11-30,GIS,CONSUMER_STAPLES,0.47519119486310185,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-11-30,APD,MATERIALS,0.037351929129885365,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2022-11-30,ALB,MATERIALS,0.01955455854736835,"Ticker
+ALB   -0.01055
+dtype: float64","Ticker
+ALB    0.527728
+dtype: float64"
+2022-12-31,BMRN,PHARMA,0.06872826505169922,"Ticker
+BMRN   -0.136475
+dtype: float64","Ticker
+BMRN    0.355326
+dtype: float64"
+2022-12-31,NBIX,PHARMA,0.15650785933829417,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-12-31,BIIB,PHARMA,0.02209856377574631,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2022-12-31,AXON,DEFENSE,0.07414971974683772,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2022-12-31,CROX,CONSUMER_DISCRETIONARY,0.03411524124540267,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2022-12-31,DECK,CONSUMER_DISCRETIONARY,0.04347153526658832,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2022-12-31,CPB,CONSUMER_STAPLES,0.47400119448672023,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-12-31,APD,MATERIALS,0.1269276210885717,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2023-01-31,NTNX,TECH,0.00010489227031878087,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-01-31,BMRN,PHARMA,0.1168000956945549,"Ticker
+BMRN   -0.136475
+dtype: float64","Ticker
+BMRN    0.355326
+dtype: float64"
+2023-01-31,NBIX,PHARMA,0.02165765010670469,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2023-01-31,BIIB,PHARMA,0.0024289677158861574,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2023-01-31,AXON,DEFENSE,0.24744063077544218,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-01-31,CROX,CONSUMER_DISCRETIONARY,0.07706081636446034,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-01-31,DKS,CONSUMER_DISCRETIONARY,0.055423324841406565,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2023-01-31,DECK,CONSUMER_DISCRETIONARY,0.014915707366960896,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-01-31,SJM,CONSUMER_STAPLES,0.4641679148642979,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-02-28,NTNX,TECH,0.10042560038178222,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-02-28,REGN,PHARMA,0.00178503859696888,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-02-28,AXON,DEFENSE,0.3118887093390535,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-02-28,CROX,CONSUMER_DISCRETIONARY,0.060785974574506414,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-02-28,DKS,CONSUMER_DISCRETIONARY,0.0032077844404636542,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2023-02-28,SJM,CONSUMER_STAPLES,0.4417642891843718,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-02-28,GIS,CONSUMER_STAPLES,0.047963618185799445,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2023-02-28,NUE,MATERIALS,0.03217898529714133,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2023-03-31,NTNX,TECH,0.07559606685651948,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-03-31,REGN,PHARMA,0.07881293488159125,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-03-31,FANG,ENERGY,0.027886824901823756,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2023-03-31,AXON,DEFENSE,0.2769364609068113,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-03-31,CROX,CONSUMER_DISCRETIONARY,0.02626091977414528,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-03-31,DKS,CONSUMER_DISCRETIONARY,0.010001314636451373,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2023-03-31,SJM,CONSUMER_STAPLES,0.5045054780434052,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-04-30,NTNX,TECH,0.05557412425411561,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-04-30,REGN,PHARMA,0.10876093843200657,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-04-30,BIIB,PHARMA,0.02759383880917843,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2023-04-30,AXON,DEFENSE,0.2529164127818238,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-04-30,CROX,CONSUMER_DISCRETIONARY,0.03858678134537734,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-04-30,DECK,CONSUMER_DISCRETIONARY,0.1565066209785533,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-04-30,SJM,CONSUMER_STAPLES,0.20903063473376485,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-04-30,GIS,CONSUMER_STAPLES,0.15103064866494692,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2023-05-31,SNPS,TECH,0.03704529850560408,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-05-31,NTNX,TECH,0.05863780154264609,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-05-31,BIIB,PHARMA,0.056917299454663076,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2023-05-31,AXON,DEFENSE,0.21780031377275957,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-05-31,DECK,CONSUMER_DISCRETIONARY,0.12500695105016393,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-05-31,PVH,CONSUMER_DISCRETIONARY,0.03193638555777232,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2023-05-31,SKX,CONSUMER_DISCRETIONARY,0.052909399765251795,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2023-05-31,SJM,CONSUMER_STAPLES,0.01465046078524985,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-05-31,CHD,CONSUMER_STAPLES,0.37508919128518514,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-05-31,KHC,CONSUMER_STAPLES,0.030006898279751684,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2023-06-30,CDNS,TECH,0.011243398918267547,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2023-06-30,TDG,DEFENSE,0.18652869350757886,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-06-30,AXON,DEFENSE,0.08685417550088735,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-06-30,LECO,INDUSTRIALS,0.15431319696880777,"Ticker
+LECO    0.21408
+dtype: float64","Ticker
+LECO    0.262663
+dtype: float64"
+2023-06-30,DECK,CONSUMER_DISCRETIONARY,0.04969112795272869,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-06-30,SKX,CONSUMER_DISCRETIONARY,0.09397450087401824,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2023-06-30,CHD,CONSUMER_STAPLES,0.4173949062777387,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-07-31,CDNS,TECH,0.04936906765349771,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2023-07-31,FTNT,TECH,0.10580217166321643,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2023-07-31,TDG,DEFENSE,0.08111123609081322,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-07-31,KTOS,DEFENSE,0.13415088107502782,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-07-31,PNR,INDUSTRIALS,0.05212982376589355,"Ticker
+PNR    0.199863
+dtype: float64","Ticker
+PNR    0.283657
+dtype: float64"
+2023-07-31,DECK,CONSUMER_DISCRETIONARY,0.2293365848831407,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-07-31,PVH,CONSUMER_DISCRETIONARY,0.02329965921990861,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2023-07-31,SKX,CONSUMER_DISCRETIONARY,0.02609849526910842,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2023-07-31,CHD,CONSUMER_STAPLES,0.2987020803796311,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-08-31,CDNS,TECH,0.13620665162020282,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2023-08-31,FTNT,TECH,0.03454586381850729,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2023-08-31,ON,TECH,0.004804264929138901,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2023-08-31,REGN,PHARMA,0.0273504409184222,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-08-31,TDG,DEFENSE,0.13008281500780464,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-08-31,KTOS,DEFENSE,0.13485827338062295,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-08-31,BWXT,DEFENSE,0.03663039463028811,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-08-31,AXON,DEFENSE,0.02599655174268209,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-08-31,PNR,INDUSTRIALS,0.07341923457058015,"Ticker
+PNR    0.199863
+dtype: float64","Ticker
+PNR    0.283657
+dtype: float64"
+2023-08-31,DECK,CONSUMER_DISCRETIONARY,0.12905351924705527,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-08-31,CHD,CONSUMER_STAPLES,0.2670519901380235,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-09-30,SNPS,TECH,0.14649232981635163,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-09-30,FTNT,TECH,0.06244577173748784,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2023-09-30,NTNX,TECH,0.04414246749338674,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-09-30,INSM,PHARMA,0.024921435095613082,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-09-30,REGN,PHARMA,0.06242581332034343,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-09-30,CW,DEFENSE,0.00445112634455981,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2023-09-30,KTOS,DEFENSE,0.06597837039462959,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-09-30,BWXT,DEFENSE,0.27700301537501293,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-09-30,AVAV,DEFENSE,0.06201943704868278,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-09-30,DECK,CONSUMER_DISCRETIONARY,0.03820898410548823,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-09-30,CHD,CONSUMER_STAPLES,0.21191124926761792,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-10-31,SNPS,TECH,0.1134618481088052,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-10-31,NTNX,TECH,0.03766204793666276,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-10-31,INSM,PHARMA,0.04761844192660686,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-10-31,VRTX,PHARMA,0.24797424481675967,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2023-10-31,SM,ENERGY,0.01510237887887065,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2023-10-31,EQT,ENERGY,0.04371997278044494,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2023-10-31,KTOS,DEFENSE,0.07919645395210244,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-10-31,BWXT,DEFENSE,0.07486715433677382,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-10-31,AVAV,DEFENSE,0.0777530756655098,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-10-31,DECK,CONSUMER_DISCRETIONARY,0.16368871388194214,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-10-31,CHD,CONSUMER_STAPLES,0.09895566771607497,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-11-30,SNPS,TECH,0.10297596436607086,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-11-30,NTNX,TECH,0.08695920530699931,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-11-30,NBIX,PHARMA,0.005509906863954248,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2023-11-30,INSM,PHARMA,0.08812982756130533,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-11-30,AMGN,PHARMA,0.11387236424667095,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2023-11-30,SM,ENERGY,0.024475660611409492,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2023-11-30,EQT,ENERGY,0.029980943452742975,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2023-11-30,TDG,DEFENSE,0.14722466938664397,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-11-30,BWXT,DEFENSE,0.011251455739243679,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-11-30,AVAV,DEFENSE,0.09516059580567247,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-11-30,DECK,CONSUMER_DISCRETIONARY,0.11285707333880113,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-11-30,CHD,CONSUMER_STAPLES,0.14949351105617037,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-11-30,MLM,MATERIALS,0.03210882226448924,"Ticker
+MLM    0.239425
+dtype: float64","Ticker
+MLM    0.277983
+dtype: float64"
+2023-12-31,SNPS,TECH,0.03882568551990772,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-12-31,NTNX,TECH,0.1753747384253959,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-12-31,NBIX,PHARMA,0.042229036212498905,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2023-12-31,INSM,PHARMA,0.14446110316560282,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-12-31,AMGN,PHARMA,0.065773315480996,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2023-12-31,VRTX,PHARMA,0.04202865000784658,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2023-12-31,SM,ENERGY,0.020961496183361596,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2023-12-31,HII,DEFENSE,0.028685121262717744,"Ticker
+HII    0.129626
+dtype: float64","Ticker
+HII    0.298074
+dtype: float64"
+2023-12-31,TDG,DEFENSE,0.09953957531581961,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-12-31,KTOS,DEFENSE,0.06762807699477828,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-12-31,AVAV,DEFENSE,0.02234958495791966,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-12-31,ITT,INDUSTRIALS,0.062280899154814856,"Ticker
+ITT    0.229731
+dtype: float64","Ticker
+ITT    0.288594
+dtype: float64"
+2023-12-31,DECK,CONSUMER_DISCRETIONARY,0.08612002726390865,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-12-31,MLM,MATERIALS,0.1037426900542157,"Ticker
+MLM    0.239425
+dtype: float64","Ticker
+MLM    0.277983
+dtype: float64"
+2024-01-31,NTNX,TECH,0.14110642230974732,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-01-31,VTRS,PHARMA,0.057848522728065684,"Ticker
+VTRS   -0.048485
+dtype: float64","Ticker
+VTRS    0.341892
+dtype: float64"
+2024-01-31,NBIX,PHARMA,0.15317495453436095,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-01-31,INSM,PHARMA,0.02379652096738984,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-01-31,AMGN,PHARMA,0.20663095982765997,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2024-01-31,REGN,PHARMA,0.006303623939381003,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-01-31,TDG,DEFENSE,0.12248374754475456,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-01-31,CW,DEFENSE,0.04429583049357179,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2024-01-31,LDOS,DEFENSE,0.08573757306893276,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-01-31,ITT,INDUSTRIALS,0.038133990278096844,"Ticker
+ITT    0.229731
+dtype: float64","Ticker
+ITT    0.288594
+dtype: float64"
+2024-01-31,DECK,CONSUMER_DISCRETIONARY,0.12048785430824521,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-02-29,NTNX,TECH,0.15589982375007563,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-02-29,VTRS,PHARMA,0.034306932828891065,"Ticker
+VTRS   -0.048485
+dtype: float64","Ticker
+VTRS    0.341892
+dtype: float64"
+2024-02-29,NBIX,PHARMA,0.058647696441860506,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-02-29,INSM,PHARMA,0.014066207469820393,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-02-29,AMGN,PHARMA,0.01283478093320942,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2024-02-29,REGN,PHARMA,0.06313006765769588,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-02-29,VRTX,PHARMA,0.011332300945892633,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-02-29,FANG,ENERGY,0.16220574683682665,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-02-29,TDG,DEFENSE,0.07357659745106947,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-02-29,LDOS,DEFENSE,0.19642739713760765,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-02-29,BWXT,DEFENSE,0.06274444775870239,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2024-02-29,DECK,CONSUMER_DISCRETIONARY,0.11165065962410622,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-02-29,PVH,CONSUMER_DISCRETIONARY,0.037353975762868814,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2024-02-29,CHD,CONSUMER_STAPLES,0.005823365401121327,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-03-31,NTNX,TECH,0.12386378688644911,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-03-31,NBIX,PHARMA,0.06676684319063304,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-03-31,AMGN,PHARMA,0.016418190783059443,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2024-03-31,REGN,PHARMA,0.15201304134228044,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-03-31,FANG,ENERGY,0.1638027382827307,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-03-31,TDG,DEFENSE,0.07290952436179779,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-03-31,LDOS,DEFENSE,0.13009834888023325,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-03-31,BWXT,DEFENSE,0.008646937188898342,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2024-03-31,AXON,DEFENSE,0.048672108022161854,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-03-31,AVAV,DEFENSE,0.03236576638056462,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-03-31,DKS,CONSUMER_DISCRETIONARY,0.038677722639186694,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-03-31,DECK,CONSUMER_DISCRETIONARY,0.0876043300104654,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-03-31,PVH,CONSUMER_DISCRETIONARY,0.02027062331114367,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2024-03-31,CHD,CONSUMER_STAPLES,0.03789003872042332,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-04-30,NTNX,TECH,0.11880683052510459,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-04-30,FANG,ENERGY,0.12596141888618934,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-04-30,TDG,DEFENSE,0.11577604981687109,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-04-30,LDOS,DEFENSE,0.19072137986048912,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-04-30,AXON,DEFENSE,0.03302047561648835,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-04-30,AVAV,DEFENSE,0.03162216065568689,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-04-30,DKS,CONSUMER_DISCRETIONARY,0.08303667566057234,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-04-30,DECK,CONSUMER_DISCRETIONARY,0.03543349282289842,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-04-30,CPB,CONSUMER_STAPLES,0.010153654669744615,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-04-30,CHD,CONSUMER_STAPLES,0.10793649753885798,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-04-30,KHC,CONSUMER_STAPLES,0.1238894221968657,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2024-04-30,FITB,FINANCIALS,0.02364194175034481,"Ticker
+FITB    0.200183
+dtype: float64","Ticker
+FITB    0.339205
+dtype: float64"
+2024-05-31,NTNX,TECH,0.012390234485535662,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-05-31,INSM,PHARMA,0.018755070848640785,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-05-31,VRTX,PHARMA,0.05225928123567863,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-05-31,FANG,ENERGY,0.07508528062881684,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-05-31,TDG,DEFENSE,0.13636260217505514,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-05-31,LDOS,DEFENSE,0.24873545930058194,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-05-31,AVAV,DEFENSE,0.031165716687613563,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-05-31,XYL,INDUSTRIALS,0.13525002575675876,"Ticker
+XYL    0.135729
+dtype: float64","Ticker
+XYL    0.26118
+dtype: float64"
+2024-05-31,DKS,CONSUMER_DISCRETIONARY,0.07880732585321355,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-05-31,DECK,CONSUMER_DISCRETIONARY,0.08121821087833962,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-05-31,SKX,CONSUMER_DISCRETIONARY,0.012415936600300546,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2024-05-31,TPR,CONSUMER_DISCRETIONARY,0.00045018185973972095,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-05-31,CPB,CONSUMER_STAPLES,0.029975325253953782,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-05-31,CHD,CONSUMER_STAPLES,0.07264288322558039,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-05-31,FCX,MATERIALS,0.014486465210253091,"Ticker
+FCX    0.262964
+dtype: float64","Ticker
+FCX    0.453625
+dtype: float64"
+2024-06-30,MPWR,TECH,0.01907254813569774,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-06-30,NTNX,TECH,0.025926966169524245,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-06-30,INSM,PHARMA,0.023617027416861485,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-06-30,REGN,PHARMA,0.08345168964577515,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-06-30,VRTX,PHARMA,0.022044649115584614,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-06-30,TDG,DEFENSE,0.12336663903377462,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-06-30,LDOS,DEFENSE,0.21958030532624315,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-06-30,AVAV,DEFENSE,0.024749339017659057,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-06-30,DKS,CONSUMER_DISCRETIONARY,0.06761957452073866,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-06-30,DECK,CONSUMER_DISCRETIONARY,0.058812263612896425,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-06-30,TPR,CONSUMER_DISCRETIONARY,0.03311211284838749,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-06-30,MKC,CONSUMER_STAPLES,0.004367820105653322,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2024-06-30,CPB,CONSUMER_STAPLES,0.0838702899541579,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-06-30,CHD,CONSUMER_STAPLES,0.062319799573472105,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-06-30,FITB,FINANCIALS,0.00951972433862736,"Ticker
+FITB    0.200183
+dtype: float64","Ticker
+FITB    0.339205
+dtype: float64"
+2024-06-30,DUK,UTILITIES,0.01647704979947189,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2024-06-30,ECL,MATERIALS,0.07724506047781693,"Ticker
+ECL    0.087874
+dtype: float64","Ticker
+ECL    0.245122
+dtype: float64"
+2024-06-30,NUE,MATERIALS,0.020991630227343232,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389582
+dtype: float64"
+2024-06-30,FCX,MATERIALS,0.02385551068056074,"Ticker
+FCX    0.262964
+dtype: float64","Ticker
+FCX    0.453625
+dtype: float64"
+2024-07-31,MPWR,TECH,0.017773066181015207,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-07-31,SMTC,TECH,0.011273534650540148,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-07-31,NTNX,TECH,0.014580613497720402,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-07-31,VTRS,PHARMA,0.006625006118824407,"Ticker
+VTRS   -0.048485
+dtype: float64","Ticker
+VTRS    0.341892
+dtype: float64"
+2024-07-31,NBIX,PHARMA,0.024001258241614202,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-07-31,INSM,PHARMA,0.023379948042359357,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-07-31,REGN,PHARMA,0.12097057219664646,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-07-31,VRTX,PHARMA,0.09806694844469474,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-07-31,FANG,ENERGY,0.08312580137505622,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-07-31,TDG,DEFENSE,0.013697970310543251,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-07-31,CW,DEFENSE,0.08476749874341549,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2024-07-31,HEI,DEFENSE,0.02018787426333474,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-07-31,LDOS,DEFENSE,0.1933436126391588,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-07-31,AXON,DEFENSE,0.008963634452510614,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-07-31,AVAV,DEFENSE,0.006798358119780305,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-07-31,DKS,CONSUMER_DISCRETIONARY,0.06578139971717287,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-07-31,CPB,CONSUMER_STAPLES,0.07658183730745488,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-07-31,FITB,FINANCIALS,0.0500712271818139,"Ticker
+FITB    0.200183
+dtype: float64","Ticker
+FITB    0.339205
+dtype: float64"
+2024-07-31,DUK,UTILITIES,0.0800098385172981,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2024-08-31,MPWR,TECH,0.007133367957462023,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-08-31,FTNT,TECH,0.02281080789856399,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-08-31,NTNX,TECH,0.02403107228422036,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-08-31,INSM,PHARMA,0.02359523359676798,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-08-31,REGN,PHARMA,0.12469874287446645,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-08-31,VRTX,PHARMA,0.06136010991251178,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-08-31,FANG,ENERGY,0.023000141825936727,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-08-31,HEI,DEFENSE,0.08281911384613366,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-08-31,LDOS,DEFENSE,0.23722787080836927,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-08-31,AXON,DEFENSE,0.010155408051364301,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-08-31,AVAV,DEFENSE,0.018154736139019165,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-08-31,DKS,CONSUMER_DISCRETIONARY,0.05473183439578826,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-08-31,CPB,CONSUMER_STAPLES,0.12207860172003943,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-08-31,MTB,FINANCIALS,0.0028030661040030903,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-08-31,SO,UTILITIES,0.07785082883158846,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2024-08-31,PEG,UTILITIES,0.10754906375689575,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-09-30,MPWR,TECH,0.01293043088419889,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-09-30,FTNT,TECH,0.013043573770493632,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-09-30,SMTC,TECH,0.016573965952086264,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-09-30,INSM,PHARMA,0.02595488648376922,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-09-30,HEI,DEFENSE,0.10582834851582142,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-09-30,LDOS,DEFENSE,0.22565652250273055,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-09-30,AXON,DEFENSE,0.03262586291333187,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-09-30,AVAV,DEFENSE,0.0026724970372700345,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-09-30,DKS,CONSUMER_DISCRETIONARY,0.03807595755238036,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-09-30,MKC,CONSUMER_STAPLES,0.026013100980644105,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2024-09-30,CPB,CONSUMER_STAPLES,0.03515892020052088,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-09-30,GIS,CONSUMER_STAPLES,0.08165237936088149,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2024-09-30,MTB,FINANCIALS,0.0023642283736728382,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-09-30,SO,UTILITIES,0.09236956766325799,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2024-09-30,PEG,UTILITIES,0.2890797578075792,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-10-31,FTNT,TECH,0.004228632724898049,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-10-31,SMTC,TECH,0.03191382744969978,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-10-31,INSM,PHARMA,0.025589845416557597,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-10-31,VRTX,PHARMA,0.0072982076656583515,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-10-31,LDOS,DEFENSE,0.2151497910363657,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-10-31,AXON,DEFENSE,0.05625224220433223,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-10-31,AVAV,DEFENSE,0.012333927591168171,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-10-31,DKS,CONSUMER_DISCRETIONARY,0.010915753157694696,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-10-31,CPB,CONSUMER_STAPLES,0.05727107591941853,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-10-31,MTB,FINANCIALS,0.0649832791645504,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-10-31,RJF,FINANCIALS,0.038951649574445364,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2024-10-31,SO,UTILITIES,0.15063842854009418,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2024-10-31,XEL,UTILITIES,0.00018203963071718716,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2024-10-31,PEG,UTILITIES,0.24222889263168965,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-10-31,APD,MATERIALS,0.08206240729342722,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2024-11-30,FTNT,TECH,0.0153452924897551,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-11-30,SMTC,TECH,0.05716031571322206,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-11-30,INSM,PHARMA,0.02513348959705002,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-11-30,HEI,DEFENSE,0.08778393574177394,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-11-30,LDOS,DEFENSE,0.05676529027442631,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-11-30,AXON,DEFENSE,0.050899566108553854,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-11-30,TPR,CONSUMER_DISCRETIONARY,0.019928732689510675,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-11-30,CLX,CONSUMER_STAPLES,0.014591405048107648,"Ticker
+CLX   -0.089311
+dtype: float64","Ticker
+CLX    0.254725
+dtype: float64"
+2024-11-30,MTB,FINANCIALS,0.09693651202128847,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-11-30,RJF,FINANCIALS,0.02065682661944212,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2024-11-30,XEL,UTILITIES,0.2609040957732455,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2024-11-30,PEG,UTILITIES,0.15422133057410148,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-11-30,APD,MATERIALS,0.13967320734853317,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2024-12-31,FTNT,TECH,0.05782724051313883,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-12-31,SMTC,TECH,0.03831061861031173,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-12-31,INSM,PHARMA,0.035546322215604,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-12-31,CW,DEFENSE,0.025417710182672717,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2024-12-31,LDOS,DEFENSE,0.05560671957302852,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-12-31,MRCY,DEFENSE,0.02669333427719324,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2024-12-31,AXON,DEFENSE,0.05743890168762114,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-12-31,TPR,CONSUMER_DISCRETIONARY,0.180785566488856,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-12-31,CLX,CONSUMER_STAPLES,0.09136351773369161,"Ticker
+CLX   -0.089311
+dtype: float64","Ticker
+CLX    0.254725
+dtype: float64"
+2024-12-31,MTB,FINANCIALS,0.019359503741527243,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-12-31,RJF,FINANCIALS,0.0028553750966172574,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2024-12-31,XEL,UTILITIES,0.19030527767619776,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2024-12-31,PEG,UTILITIES,0.0912309007821803,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-12-31,WEC,UTILITIES,0.022359061590364306,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2024-12-31,APD,MATERIALS,0.10489994983071613,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-01-31,FTNT,TECH,0.07956841406104913,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2025-01-31,SMTC,TECH,0.012903887615999067,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2025-01-31,INSM,PHARMA,0.03847645390802327,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2025-01-31,HRMY,PHARMA,0.00377916386172896,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2025-01-31,KTOS,DEFENSE,0.00978137507602683,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-01-31,AXON,DEFENSE,0.056893746033457496,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-01-31,RH,CONSUMER_DISCRETIONARY,0.00428259511107537,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2025-01-31,TPR,CONSUMER_DISCRETIONARY,0.15259678721532663,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-01-31,CLX,CONSUMER_STAPLES,0.1988714982044412,"Ticker
+CLX   -0.089311
+dtype: float64","Ticker
+CLX    0.254725
+dtype: float64"
+2025-01-31,MTB,FINANCIALS,0.02536119671463086,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2025-01-31,RJF,FINANCIALS,0.07901318023969912,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2025-01-31,XEL,UTILITIES,0.044628553749085344,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2025-01-31,WEC,UTILITIES,0.1538259018275634,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-01-31,APD,MATERIALS,0.08918458625310584,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-01-31,CF,MATERIALS,0.050832660132529975,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2025-02-28,FTNT,TECH,0.11049190965796299,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2025-02-28,SMTC,TECH,9.329652169365775e-05,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2025-02-28,NTNX,TECH,0.06397598621226835,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2025-02-28,MRCY,DEFENSE,0.030199937879836797,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2025-02-28,TPR,CONSUMER_DISCRETIONARY,0.18705830059047424,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-02-28,MKC,CONSUMER_STAPLES,0.02766763844364983,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2025-02-28,XEL,UTILITIES,0.08712606636717206,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2025-02-28,WEC,UTILITIES,0.41546865066939603,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-02-28,APD,MATERIALS,0.008116286862176433,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-02-28,CF,MATERIALS,0.06980192679517203,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2025-03-31,FTNT,TECH,0.08645413620741577,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2025-03-31,NTNX,TECH,0.044265940450694624,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2025-03-31,EQT,ENERGY,0.05819122239444137,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-03-31,KTOS,DEFENSE,0.03426605520994261,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-03-31,TPR,CONSUMER_DISCRETIONARY,0.16206511472981686,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-03-31,EXC,UTILITIES,0.0070131890398849595,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-03-31,XEL,UTILITIES,0.03271520584967384,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2025-03-31,WEC,UTILITIES,0.5045734533539662,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-03-31,APD,MATERIALS,0.019252718794832063,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-03-31,CF,MATERIALS,0.051202963977599596,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2025-04-30,EQT,ENERGY,0.06930004014140005,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-04-30,KTOS,DEFENSE,0.14102515241828137,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-04-30,AXON,DEFENSE,0.021535159502446055,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-04-30,TPR,CONSUMER_DISCRETIONARY,0.2376527247492755,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-04-30,EXC,UTILITIES,0.49734214238247065,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-04-30,ED,UTILITIES,0.02183681488940699,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2025-04-30,WEC,UTILITIES,0.01130796591964783,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-05-31,EQT,ENERGY,0.09509035283344296,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-05-31,KTOS,DEFENSE,0.09490053298244389,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-05-31,MRCY,DEFENSE,0.02903788704608527,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2025-05-31,AXON,DEFENSE,0.0725942563303143,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-05-31,TPR,CONSUMER_DISCRETIONARY,0.2431949930688382,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-05-31,EXC,UTILITIES,0.13038440544869162,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-05-31,WEC,UTILITIES,0.22375985177675295,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-05-31,MOS,MATERIALS,0.11103772051331645,"Ticker
+MOS    0.149102
+dtype: float64","Ticker
+MOS    0.42673
+dtype: float64"
+2025-06-30,INSM,PHARMA,0.026121591840978214,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2025-06-30,EQT,ENERGY,0.06617440221556667,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-06-30,KTOS,DEFENSE,0.1554520973142731,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-06-30,MRCY,DEFENSE,0.08433976560444736,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2025-06-30,AXON,DEFENSE,0.0374868217000318,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-06-30,TPR,CONSUMER_DISCRETIONARY,0.2913808819304788,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-06-30,AEP,UTILITIES,0.05168501493158135,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2025-06-30,EXC,UTILITIES,0.19077084052186255,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-06-30,MOS,MATERIALS,0.09658858393396172,"Ticker
+MOS    0.149102
+dtype: float64","Ticker
+MOS    0.42673
+dtype: float64"
+2025-07-31,INSM,PHARMA,0.025933544619098706,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2025-07-31,HII,DEFENSE,0.07788187651578675,"Ticker
+HII    0.129626
+dtype: float64","Ticker
+HII    0.298074
+dtype: float64"
+2025-07-31,KTOS,DEFENSE,0.1631756674595887,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-07-31,TPR,CONSUMER_DISCRETIONARY,0.29575826922211773,"Ticker
+TPR    0.484475
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-07-31,AEP,UTILITIES,0.185458469613613,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2025-07-31,EXC,UTILITIES,0.15573764917179153,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-07-31,MOS,MATERIALS,0.034312817060610644,"Ticker
+MOS    0.149102
+dtype: float64","Ticker
+MOS    0.42673
+dtype: float64"
+2025-07-31,NEM,MATERIALS,0.06174170633711472,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2020-09-30,INSM,PHARMA,0.18477537074134567,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2020-09-30,AXON,DEFENSE,0.2548837480335897,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-09-30,DKS,CONSUMER_DISCRETIONARY,0.168151484777,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-09-30,RH,CONSUMER_DISCRETIONARY,0.09819802820879138,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2020-09-30,PVH,CONSUMER_DISCRETIONARY,0.06588108126886512,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2020-09-30,IVZ,FINANCIALS,0.14091016812788665,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2020-09-30,DUK,UTILITIES,0.08512823402679881,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2020-09-30,ED,UTILITIES,0.002071884727253671,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2020-10-31,NTNX,TECH,0.0211457649823111,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2020-10-31,INSM,PHARMA,0.07692602721034793,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2020-10-31,AXON,DEFENSE,0.23763042357762243,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-10-31,CROX,CONSUMER_DISCRETIONARY,0.0828198938438827,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2020-10-31,DKS,CONSUMER_DISCRETIONARY,0.09454704680589313,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-10-31,TPR,CONSUMER_DISCRETIONARY,0.14699609738636896,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2020-10-31,IVZ,FINANCIALS,0.1161925921497027,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2020-10-31,DUK,UTILITIES,0.0387345359478174,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2020-10-31,AEP,UTILITIES,0.07925931172342646,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2020-10-31,WEC,UTILITIES,0.012381436613950109,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2020-10-31,MLM,MATERIALS,0.09336686976543648,"Ticker
+MLM    0.239425
+dtype: float64","Ticker
+MLM    0.277983
+dtype: float64"
+2020-11-30,NTNX,TECH,0.008076115581217331,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2020-11-30,INSM,PHARMA,0.13310838205103065,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2020-11-30,AXON,DEFENSE,0.33722785607581307,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-11-30,CROX,CONSUMER_DISCRETIONARY,0.07172548660099994,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2020-11-30,DKS,CONSUMER_DISCRETIONARY,0.03830660834800184,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-11-30,RH,CONSUMER_DISCRETIONARY,0.021768855136071203,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2020-11-30,TPR,CONSUMER_DISCRETIONARY,0.21944160724090797,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2020-11-30,IVZ,FINANCIALS,0.16629974209814327,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2020-11-30,ALB,MATERIALS,0.004045346867911619,"Ticker
+ALB   -0.01055
+dtype: float64","Ticker
+ALB    0.527728
+dtype: float64"
+2020-12-31,SNPS,TECH,0.12714041831736902,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2020-12-31,MPWR,TECH,0.02528596600514049,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2020-12-31,NTNX,TECH,0.05199317030632242,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2020-12-31,SM,ENERGY,0.023763000235238012,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2020-12-31,AXON,DEFENSE,0.21719518978537455,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2020-12-31,YETI,CONSUMER_DISCRETIONARY,0.008093456229168336,"Ticker
+YETI   -0.074105
+dtype: float64","Ticker
+YETI    0.50059
+dtype: float64"
+2020-12-31,CROX,CONSUMER_DISCRETIONARY,0.08332918918592601,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2020-12-31,DKS,CONSUMER_DISCRETIONARY,0.0025995829318974525,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2020-12-31,TPR,CONSUMER_DISCRETIONARY,0.2856492454916021,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2020-12-31,PNC,FINANCIALS,0.007373569522458462,"Ticker
+PNC    0.158364
+dtype: float64","Ticker
+PNC    0.287035
+dtype: float64"
+2020-12-31,IVZ,FINANCIALS,0.14742593940234622,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2020-12-31,SO,UTILITIES,0.020151272443215754,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2021-01-31,SNPS,TECH,0.01853102972321902,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2021-01-31,KEYS,TECH,0.15131933094941147,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-01-31,NTNX,TECH,0.005995382905509015,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2021-01-31,BIIB,PHARMA,0.01439227931741471,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-01-31,SM,ENERGY,0.02216114295947509,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-01-31,AXON,DEFENSE,0.30455605802994684,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-01-31,CROX,CONSUMER_DISCRETIONARY,0.025155321951574577,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-01-31,DKS,CONSUMER_DISCRETIONARY,0.07105644341609492,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-01-31,TPR,CONSUMER_DISCRETIONARY,0.23671384458890865,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-01-31,SJM,CONSUMER_STAPLES,0.0037080253144457,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-01-31,IVZ,FINANCIALS,0.14641114084409557,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2021-02-28,CDNS,TECH,0.03547400796315996,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2021-02-28,KEYS,TECH,0.116654710581245,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-02-28,BIIB,PHARMA,0.010361661275081827,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-02-28,SM,ENERGY,0.037794673371696307,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-02-28,AXON,DEFENSE,0.2376492473472146,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-02-28,CROX,CONSUMER_DISCRETIONARY,0.0397851410202316,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-02-28,DKS,CONSUMER_DISCRETIONARY,0.05345190464521029,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-02-28,TPR,CONSUMER_DISCRETIONARY,0.2993747978252683,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-02-28,SJM,CONSUMER_STAPLES,0.051839632471344446,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-02-28,IVZ,FINANCIALS,0.1176142234982351,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2021-03-31,CDNS,TECH,0.035686720020766644,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2021-03-31,KEYS,TECH,0.05348233921518178,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-03-31,BIIB,PHARMA,0.0156933725786068,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-03-31,SM,ENERGY,0.05812726318924628,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-03-31,AXON,DEFENSE,0.11920879986649512,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-03-31,CROX,CONSUMER_DISCRETIONARY,0.026852921881331204,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-03-31,DKS,CONSUMER_DISCRETIONARY,0.01833967609456869,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-03-31,RH,CONSUMER_DISCRETIONARY,0.029353795526294562,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2021-03-31,TPR,CONSUMER_DISCRETIONARY,0.2532703827757742,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-03-31,SJM,CONSUMER_STAPLES,0.1857268647801619,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-03-31,IVZ,FINANCIALS,0.11657584880609738,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2021-03-31,DUK,UTILITIES,0.020221855915593136,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-03-31,WEC,UTILITIES,0.06746015935022592,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2021-04-30,KEYS,TECH,0.09733926963232128,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-04-30,FTNT,TECH,0.003441749257150621,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-04-30,BIIB,PHARMA,0.009461738916713895,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-04-30,SM,ENERGY,0.05289577743639111,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-04-30,AXON,DEFENSE,0.09333054819266552,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-04-30,CROX,CONSUMER_DISCRETIONARY,0.05740126958040956,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-04-30,DKS,CONSUMER_DISCRETIONARY,0.01824925466835776,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-04-30,RH,CONSUMER_DISCRETIONARY,0.04252162524331723,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2021-04-30,TPR,CONSUMER_DISCRETIONARY,0.22719300015451632,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-04-30,SJM,CONSUMER_STAPLES,0.1398410859794935,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-04-30,IVZ,FINANCIALS,0.06015086162937157,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2021-04-30,DUK,UTILITIES,0.019886139982511312,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-04-30,SO,UTILITIES,0.036071797850094525,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2021-04-30,AEP,UTILITIES,0.04234527481513992,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2021-04-30,WEC,UTILITIES,0.09987060666194604,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2021-05-31,FTNT,TECH,0.1045414095499311,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-05-31,BIIB,PHARMA,0.00893774092550773,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-05-31,SM,ENERGY,0.0668873922094994,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-05-31,AR,ENERGY,0.01494532240516597,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-05-31,AXON,DEFENSE,0.03558395293752347,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-05-31,YETI,CONSUMER_DISCRETIONARY,0.014825024350349148,"Ticker
+YETI   -0.074105
+dtype: float64","Ticker
+YETI    0.50059
+dtype: float64"
+2021-05-31,CROX,CONSUMER_DISCRETIONARY,0.0604587729630298,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-05-31,TPR,CONSUMER_DISCRETIONARY,0.14255820830868315,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-05-31,SJM,CONSUMER_STAPLES,0.13556655516939967,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-05-31,KHC,CONSUMER_STAPLES,0.1997385120917793,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2021-05-31,IVZ,FINANCIALS,0.09139578980451457,"Ticker
+IVZ    0.198614
+dtype: float64","Ticker
+IVZ    0.382372
+dtype: float64"
+2021-05-31,DUK,UTILITIES,0.08653070697704918,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-05-31,AEP,UTILITIES,0.03803061230745701,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2021-06-30,KEYS,TECH,0.028551567097576083,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-06-30,FTNT,TECH,0.16717959312248776,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-06-30,BIIB,PHARMA,0.047525340231943006,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-06-30,SM,ENERGY,0.12777828177741282,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-06-30,AXON,DEFENSE,0.04962493899155167,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2021-06-30,YETI,CONSUMER_DISCRETIONARY,0.022117073824205663,"Ticker
+YETI   -0.074105
+dtype: float64","Ticker
+YETI    0.50059
+dtype: float64"
+2021-06-30,CROX,CONSUMER_DISCRETIONARY,0.06505149700854998,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-06-30,TPR,CONSUMER_DISCRETIONARY,0.06643132746349627,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2021-06-30,SJM,CONSUMER_STAPLES,0.17340367922166014,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-06-30,KHC,CONSUMER_STAPLES,0.1423748170911791,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2021-06-30,PNC,FINANCIALS,0.07319097959729973,"Ticker
+PNC    0.158364
+dtype: float64","Ticker
+PNC    0.287035
+dtype: float64"
+2021-06-30,DUK,UTILITIES,0.0367709045744141,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-07-31,KEYS,TECH,0.018243966332479676,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-07-31,FTNT,TECH,0.34855050864926895,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-07-31,BIIB,PHARMA,0.035757756486434526,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-07-31,SM,ENERGY,0.06178228404823946,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-07-31,AR,ENERGY,0.02363523085981444,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-07-31,CROX,CONSUMER_DISCRETIONARY,0.056346293230308396,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-07-31,DKS,CONSUMER_DISCRETIONARY,0.015507939034196321,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-07-31,SJM,CONSUMER_STAPLES,0.16118874130130278,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-07-31,KHC,CONSUMER_STAPLES,0.01046311509614834,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2021-07-31,DUK,UTILITIES,0.20943149290710383,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-07-31,NUE,MATERIALS,0.05909267205518152,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2021-08-31,KEYS,TECH,0.040204748574719534,"Ticker
+KEYS    0.097949
+dtype: float64","Ticker
+KEYS    0.30031
+dtype: float64"
+2021-08-31,FTNT,TECH,0.24357504045375658,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-08-31,REGN,PHARMA,0.06761942030625186,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-08-31,BIIB,PHARMA,0.031110513149669165,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2021-08-31,DVN,ENERGY,0.0007338145816058469,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-08-31,SM,ENERGY,0.03908924538110596,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-08-31,AR,ENERGY,0.013051130866434214,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-08-31,CROX,CONSUMER_DISCRETIONARY,0.0338676228415695,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-08-31,DKS,CONSUMER_DISCRETIONARY,0.11481060722648778,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-08-31,SJM,CONSUMER_STAPLES,0.023968358030514184,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-08-31,KMB,CONSUMER_STAPLES,0.03135788330786354,"Ticker
+KMB    0.000848
+dtype: float64","Ticker
+KMB    0.18668
+dtype: float64"
+2021-08-31,DUK,UTILITIES,0.2828990407844029,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-08-31,NUE,MATERIALS,0.07771257449474891,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2021-09-30,FTNT,TECH,0.34496226235229716,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-09-30,DVN,ENERGY,0.01911805074311075,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-09-30,SM,ENERGY,0.041242217531620044,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-09-30,AR,ENERGY,0.08410024687419446,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-09-30,CROX,CONSUMER_DISCRETIONARY,0.059494713555092574,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-09-30,DKS,CONSUMER_DISCRETIONARY,0.05654777619681322,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-09-30,SJM,CONSUMER_STAPLES,0.04419441809102305,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2021-09-30,KMB,CONSUMER_STAPLES,0.058252064125437014,"Ticker
+KMB    0.000848
+dtype: float64","Ticker
+KMB    0.18668
+dtype: float64"
+2021-09-30,GIS,CONSUMER_STAPLES,0.03786723588487647,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2021-09-30,DUK,UTILITIES,0.2121862610076723,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-09-30,NUE,MATERIALS,0.04203475363831981,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2021-10-31,FTNT,TECH,0.279902825511649,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-10-31,REGN,PHARMA,0.08568220438189747,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-10-31,DVN,ENERGY,0.04101563381890136,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-10-31,SM,ENERGY,0.052279586819865574,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2021-10-31,AR,ENERGY,0.015453679291651258,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-10-31,DOV,INDUSTRIALS,0.053958317568949005,"Ticker
+DOV    0.110753
+dtype: float64","Ticker
+DOV    0.24277
+dtype: float64"
+2021-10-31,CROX,CONSUMER_DISCRETIONARY,0.04913982224799654,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-10-31,DKS,CONSUMER_DISCRETIONARY,0.014436100766549272,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-10-31,GIS,CONSUMER_STAPLES,0.019774764191008046,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2021-10-31,DUK,UTILITIES,0.18948129394124807,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2021-10-31,EXC,UTILITIES,0.14102785611648516,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2021-10-31,NUE,MATERIALS,0.057847915343465485,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2021-11-30,FTNT,TECH,0.2923190824708762,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-11-30,REGN,PHARMA,0.1842744752075328,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-11-30,DVN,ENERGY,0.13151743081002681,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-11-30,AR,ENERGY,0.020739293446542226,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-11-30,ROK,INDUSTRIALS,0.0041719942525040065,"Ticker
+ROK    0.097973
+dtype: float64","Ticker
+ROK    0.311488
+dtype: float64"
+2021-11-30,CROX,CONSUMER_DISCRETIONARY,0.12365612671703685,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-11-30,DKS,CONSUMER_DISCRETIONARY,0.010720737239998227,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-11-30,NEE,UTILITIES,0.039044451541505376,"Ticker
+NEE    0.038251
+dtype: float64","Ticker
+NEE    0.272817
+dtype: float64"
+2021-11-30,EXC,UTILITIES,0.19355640831405022,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2021-12-31,FTNT,TECH,0.17476090786815968,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2021-12-31,ON,TECH,0.02499418101622358,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2021-12-31,HRMY,PHARMA,0.032148507066605096,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2021-12-31,REGN,PHARMA,0.06587538793188276,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2021-12-31,DVN,ENERGY,0.12306361672474259,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2021-12-31,AR,ENERGY,0.023098620133553856,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2021-12-31,CROX,CONSUMER_DISCRETIONARY,0.016336082108693372,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2021-12-31,DKS,CONSUMER_DISCRETIONARY,0.0031213099391593103,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2021-12-31,HRL,CONSUMER_STAPLES,0.04635785703106814,"Ticker
+HRL   -0.09012
+dtype: float64","Ticker
+HRL    0.222784
+dtype: float64"
+2021-12-31,CHD,CONSUMER_STAPLES,0.3114179835683123,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2021-12-31,NEE,UTILITIES,0.008917842131594002,"Ticker
+NEE    0.038251
+dtype: float64","Ticker
+NEE    0.272817
+dtype: float64"
+2021-12-31,EXC,UTILITIES,0.1595536072312262,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2021-12-31,NUE,MATERIALS,0.010354097248753379,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2022-01-31,FTNT,TECH,0.0551285270038418,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2022-01-31,ON,TECH,0.04949509967058136,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2022-01-31,REGN,PHARMA,0.03397547503208858,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2022-01-31,VRTX,PHARMA,0.02644086252512248,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-01-31,DVN,ENERGY,0.16376690686369016,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-01-31,DKS,CONSUMER_DISCRETIONARY,0.05673529152051333,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2022-01-31,MKC,CONSUMER_STAPLES,0.04047663065080819,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2022-01-31,CHD,CONSUMER_STAPLES,0.309638953612274,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2022-01-31,EXC,UTILITIES,0.26434225312275744,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-02-28,FTNT,TECH,0.014828087800235408,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2022-02-28,ON,TECH,0.07738915712888296,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2022-02-28,VRTX,PHARMA,0.053584909923077594,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-02-28,DVN,ENERGY,0.1283785210796043,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-02-28,CHD,CONSUMER_STAPLES,0.1709491482320859,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2022-02-28,EXC,UTILITIES,0.4667564277349914,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-02-28,CF,MATERIALS,0.08103599393699884,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-02-28,NEM,MATERIALS,0.007077754164075411,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2022-03-31,ON,TECH,0.06654087871968552,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2022-03-31,HRMY,PHARMA,0.03462949341098994,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-03-31,VRTX,PHARMA,0.0793698898143923,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-03-31,DVN,ENERGY,0.043106725968342356,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-03-31,EXC,UTILITIES,0.4241385155818718,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-03-31,ED,UTILITIES,0.09082573686045621,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-03-31,CF,MATERIALS,0.15456790304469334,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-03-31,NEM,MATERIALS,0.10682085659903282,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2022-04-30,HRMY,PHARMA,0.006315176393119282,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-04-30,VRTX,PHARMA,0.21825354622109558,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-04-30,APA,ENERGY,0.017147755897706733,"Ticker
+APA    0.086473
+dtype: float64","Ticker
+APA    0.526142
+dtype: float64"
+2022-04-30,DVN,ENERGY,0.023643780489874054,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-04-30,EQT,ENERGY,0.013500013450856309,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-04-30,AR,ENERGY,0.11693074780532617,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2022-04-30,HRL,CONSUMER_STAPLES,0.07348979123511637,"Ticker
+HRL   -0.09012
+dtype: float64","Ticker
+HRL    0.222784
+dtype: float64"
+2022-04-30,KMB,CONSUMER_STAPLES,0.07618882348911282,"Ticker
+KMB    0.000848
+dtype: float64","Ticker
+KMB    0.18668
+dtype: float64"
+2022-04-30,EXC,UTILITIES,0.2712525980523247,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-04-30,CF,MATERIALS,0.1598287817979636,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-04-30,NEM,MATERIALS,0.02344898516743713,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
+2022-05-31,AMGN,PHARMA,0.06524882956122663,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-05-31,VRTX,PHARMA,0.09763417227292677,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-05-31,OXY,ENERGY,0.05678627383693058,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-05-31,DVN,ENERGY,0.0964042178386395,"Ticker
+DVN    0.303367
+dtype: float64","Ticker
+DVN    0.462421
+dtype: float64"
+2022-05-31,EQT,ENERGY,0.0617074475113171,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-05-31,MRCY,DEFENSE,0.023552314884732205,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2022-05-31,EXC,UTILITIES,0.18020697167660657,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2022-05-31,ED,UTILITIES,0.3573764441387201,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-05-31,CF,MATERIALS,0.06108332827880468,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-06-30,AMGN,PHARMA,0.06295211729154511,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-06-30,VRTX,PHARMA,0.2584204648557016,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-06-30,OXY,ENERGY,0.09831541616509006,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-06-30,EQT,ENERGY,0.030046485304459827,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-06-30,MRCY,DEFENSE,0.01518082428442708,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2022-06-30,CPB,CONSUMER_STAPLES,0.03158165976233368,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-06-30,GIS,CONSUMER_STAPLES,0.024942444401788222,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-06-30,ED,UTILITIES,0.42404376233655827,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-06-30,CF,MATERIALS,0.05451682559813748,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-07-31,HRMY,PHARMA,0.007385747180313844,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-07-31,AMGN,PHARMA,0.10206509113491614,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-07-31,VRTX,PHARMA,0.25343728529665893,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-07-31,OXY,ENERGY,0.15096744437718054,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-07-31,EQT,ENERGY,0.06465143014846639,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-07-31,AR,ENERGY,0.04591939310923839,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2022-07-31,CPB,CONSUMER_STAPLES,0.1497239926232882,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-07-31,ED,UTILITIES,0.22584961612831725,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-08-31,NBIX,PHARMA,0.07031904342508351,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-08-31,AMGN,PHARMA,0.023068172681365268,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-08-31,VRTX,PHARMA,0.026690542878445186,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-08-31,OXY,ENERGY,0.2263252221493125,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-08-31,EQT,ENERGY,0.11087964517197497,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-08-31,AR,ENERGY,0.060387486657997216,"Ticker
+AR    0.48945
+dtype: float64","Ticker
+AR    0.555105
+dtype: float64"
+2022-08-31,AVAV,DEFENSE,0.04060486762947048,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2022-08-31,CPB,CONSUMER_STAPLES,0.2095079075563438,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-08-31,GIS,CONSUMER_STAPLES,0.1288813686744169,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-08-31,ED,UTILITIES,0.1033357431763411,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2022-09-30,NBIX,PHARMA,0.2907284826895687,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-09-30,HRMY,PHARMA,0.06471348553580185,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-09-30,OXY,ENERGY,0.143020625565437,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-09-30,EQT,ENERGY,0.21131942861657374,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-09-30,AVAV,DEFENSE,0.02493501293520058,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2022-09-30,GIS,CONSUMER_STAPLES,0.22984492902995668,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-09-30,CF,MATERIALS,0.03543803562715725,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-10-31,NTNX,TECH,0.0006453356729038852,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2022-10-31,NBIX,PHARMA,0.11843761151055746,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-10-31,HRMY,PHARMA,0.03892295740674853,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2022-10-31,AMGN,PHARMA,0.30366139878204973,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-10-31,VRTX,PHARMA,0.0011335531206494182,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2022-10-31,OXY,ENERGY,0.10621893489060799,"Ticker
+OXY    0.276342
+dtype: float64","Ticker
+OXY    0.469473
+dtype: float64"
+2022-10-31,EQT,ENERGY,0.09286964419681237,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-10-31,HII,DEFENSE,0.15426826820480188,"Ticker
+HII    0.129626
+dtype: float64","Ticker
+HII    0.298074
+dtype: float64"
+2022-10-31,GIS,CONSUMER_STAPLES,0.14895414328372553,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-10-31,ALB,MATERIALS,0.028629193630757912,"Ticker
+ALB   -0.01055
+dtype: float64","Ticker
+ALB    0.527728
+dtype: float64"
+2022-10-31,CF,MATERIALS,0.006258959298583492,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2022-11-30,NBIX,PHARMA,0.17393017761537502,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-11-30,AMGN,PHARMA,0.1573262717907335,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2022-11-30,BIIB,PHARMA,0.011868214336378614,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2022-11-30,EQT,ENERGY,0.0609860699390077,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2022-11-30,AXON,DEFENSE,0.03226080913412617,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2022-11-30,DECK,CONSUMER_DISCRETIONARY,0.031530302596796976,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2022-11-30,GIS,CONSUMER_STAPLES,0.47519138716659987,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2022-11-30,APD,MATERIALS,0.0373523806324555,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2022-11-30,ALB,MATERIALS,0.019554386788206472,"Ticker
+ALB   -0.01055
+dtype: float64","Ticker
+ALB    0.527728
+dtype: float64"
+2022-12-31,BMRN,PHARMA,0.06872770252405475,"Ticker
+BMRN   -0.136475
+dtype: float64","Ticker
+BMRN    0.355326
+dtype: float64"
+2022-12-31,NBIX,PHARMA,0.15650799080383948,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2022-12-31,BIIB,PHARMA,0.022098365537892576,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2022-12-31,AXON,DEFENSE,0.07415037410487606,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2022-12-31,CROX,CONSUMER_DISCRETIONARY,0.03411530210222535,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2022-12-31,DECK,CONSUMER_DISCRETIONARY,0.04347116323952025,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2022-12-31,CPB,CONSUMER_STAPLES,0.4740018917465748,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2022-12-31,APD,MATERIALS,0.12692720994099585,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2023-01-31,NTNX,TECH,0.00010471793456623185,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-01-31,BMRN,PHARMA,0.1168013047720926,"Ticker
+BMRN   -0.136475
+dtype: float64","Ticker
+BMRN    0.355326
+dtype: float64"
+2023-01-31,NBIX,PHARMA,0.021657682652583853,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2023-01-31,BIIB,PHARMA,0.002428935708249478,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2023-01-31,AXON,DEFENSE,0.2474416829317295,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-01-31,CROX,CONSUMER_DISCRETIONARY,0.07706081584763154,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-01-31,DKS,CONSUMER_DISCRETIONARY,0.055424321755401115,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2023-01-31,DECK,CONSUMER_DISCRETIONARY,0.01491481208944159,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-01-31,SJM,CONSUMER_STAPLES,0.4641657263084156,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-02-28,NTNX,TECH,0.10042595967073091,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-02-28,REGN,PHARMA,0.0017845238583530955,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-02-28,AXON,DEFENSE,0.3118897865236772,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-02-28,CROX,CONSUMER_DISCRETIONARY,0.060785664599179244,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-02-28,DKS,CONSUMER_DISCRETIONARY,0.0032084907291914776,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2023-02-28,SJM,CONSUMER_STAPLES,0.4417583118390227,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-02-28,GIS,CONSUMER_STAPLES,0.047967353657228054,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2023-02-28,NUE,MATERIALS,0.03217990912265087,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2023-03-31,NTNX,TECH,0.07559634801686768,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-03-31,REGN,PHARMA,0.0788127954399726,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-03-31,FANG,ENERGY,0.027886838052458153,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2023-03-31,AXON,DEFENSE,0.27693754117326586,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-03-31,CROX,CONSUMER_DISCRETIONARY,0.026260749559669005,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-03-31,DKS,CONSUMER_DISCRETIONARY,0.010001703093697254,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2023-03-31,SJM,CONSUMER_STAPLES,0.5045040246646194,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-04-30,NTNX,TECH,0.05557427546157825,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-04-30,REGN,PHARMA,0.10876122724541856,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-04-30,BIIB,PHARMA,0.027594152450963815,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2023-04-30,AXON,DEFENSE,0.2529172883723567,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-04-30,CROX,CONSUMER_DISCRETIONARY,0.03858693619258829,"Ticker
+CROX    0.158313
+dtype: float64","Ticker
+CROX    0.556687
+dtype: float64"
+2023-04-30,DECK,CONSUMER_DISCRETIONARY,0.15650690814432017,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-04-30,SJM,CONSUMER_STAPLES,0.20902644675434384,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-04-30,GIS,CONSUMER_STAPLES,0.15103276537800453,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2023-05-31,SNPS,TECH,0.037045406642172395,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-05-31,NTNX,TECH,0.058638160836950254,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-05-31,BIIB,PHARMA,0.05691736749414615,"Ticker
+BIIB   -0.137279
+dtype: float64","Ticker
+BIIB    0.443025
+dtype: float64"
+2023-05-31,AXON,DEFENSE,0.2178004386777822,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-05-31,DECK,CONSUMER_DISCRETIONARY,0.12500687080270104,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-05-31,PVH,CONSUMER_DISCRETIONARY,0.031936212615364994,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2023-05-31,SKX,CONSUMER_DISCRETIONARY,0.05290975323363512,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2023-05-31,SJM,CONSUMER_STAPLES,0.014647486542438791,"Ticker
+SJM    0.028171
+dtype: float64","Ticker
+SJM    0.234754
+dtype: float64"
+2023-05-31,CHD,CONSUMER_STAPLES,0.37508866230185917,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-05-31,KHC,CONSUMER_STAPLES,0.030009640851314207,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2023-06-30,CDNS,TECH,0.011243464045821105,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2023-06-30,TDG,DEFENSE,0.18652876645444677,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-06-30,AXON,DEFENSE,0.08685409374058682,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-06-30,LECO,INDUSTRIALS,0.15431349475172165,"Ticker
+LECO    0.21408
+dtype: float64","Ticker
+LECO    0.262663
+dtype: float64"
+2023-06-30,DECK,CONSUMER_DISCRETIONARY,0.049690973969347775,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-06-30,SKX,CONSUMER_DISCRETIONARY,0.09397461930857605,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2023-06-30,CHD,CONSUMER_STAPLES,0.4173945877294905,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-07-31,CDNS,TECH,0.04936854410716946,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2023-07-31,FTNT,TECH,0.10580245868690868,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2023-07-31,TDG,DEFENSE,0.08111123349043599,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-07-31,KTOS,DEFENSE,0.13415066574280432,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-07-31,PNR,INDUSTRIALS,0.05213056926499859,"Ticker
+PNR    0.199863
+dtype: float64","Ticker
+PNR    0.283657
+dtype: float64"
+2023-07-31,DECK,CONSUMER_DISCRETIONARY,0.22933604037794553,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-07-31,PVH,CONSUMER_DISCRETIONARY,0.023299209117625477,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2023-07-31,SKX,CONSUMER_DISCRETIONARY,0.02609882479498406,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2023-07-31,CHD,CONSUMER_STAPLES,0.2987024544169521,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-08-31,CDNS,TECH,0.13620574465790103,"Ticker
+CDNS    0.262662
+dtype: float64","Ticker
+CDNS    0.356003
+dtype: float64"
+2023-08-31,FTNT,TECH,0.03454583509377602,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2023-08-31,ON,TECH,0.004804589080369609,"Ticker
+ON    0.184767
+dtype: float64","Ticker
+ON    0.518835
+dtype: float64"
+2023-08-31,REGN,PHARMA,0.027350307434228397,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-08-31,TDG,DEFENSE,0.13008254011099946,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-08-31,KTOS,DEFENSE,0.13485792490528625,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-08-31,BWXT,DEFENSE,0.036629896760186215,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-08-31,AXON,DEFENSE,0.02599660549848836,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2023-08-31,PNR,INDUSTRIALS,0.07341871000488741,"Ticker
+PNR    0.199863
+dtype: float64","Ticker
+PNR    0.283657
+dtype: float64"
+2023-08-31,DECK,CONSUMER_DISCRETIONARY,0.12905378759603478,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-08-31,CHD,CONSUMER_STAPLES,0.2670540588574302,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-09-30,SNPS,TECH,0.14649194385065456,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-09-30,FTNT,TECH,0.062445897439524785,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2023-09-30,NTNX,TECH,0.04414265902784661,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-09-30,INSM,PHARMA,0.024921063884146416,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-09-30,REGN,PHARMA,0.06242548620450649,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2023-09-30,CW,DEFENSE,0.004449159013469658,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2023-09-30,KTOS,DEFENSE,0.06597831607000074,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-09-30,BWXT,DEFENSE,0.27700405099352976,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-09-30,AVAV,DEFENSE,0.06201912670699973,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-09-30,DECK,CONSUMER_DISCRETIONARY,0.038209076944429536,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-09-30,CHD,CONSUMER_STAPLES,0.21191321986603323,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-10-31,SNPS,TECH,0.11346196940893506,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-10-31,NTNX,TECH,0.037662029140584516,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-10-31,INSM,PHARMA,0.0476181578168509,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-10-31,VRTX,PHARMA,0.24797308466283466,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2023-10-31,SM,ENERGY,0.015102716859984412,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2023-10-31,EQT,ENERGY,0.043719609969807845,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2023-10-31,KTOS,DEFENSE,0.07919619563749063,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-10-31,BWXT,DEFENSE,0.07486720643991171,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-10-31,AVAV,DEFENSE,0.07775269416766398,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-10-31,DECK,CONSUMER_DISCRETIONARY,0.16368841690688224,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-10-31,CHD,CONSUMER_STAPLES,0.09895791898861107,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-11-30,SNPS,TECH,0.10297617073957359,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-11-30,NTNX,TECH,0.08695924821560559,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-11-30,NBIX,PHARMA,0.005509917632491457,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2023-11-30,INSM,PHARMA,0.08812956381806203,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-11-30,AMGN,PHARMA,0.11387220112388577,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2023-11-30,SM,ENERGY,0.024476068796289604,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2023-11-30,EQT,ENERGY,0.02998056156091558,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2023-11-30,TDG,DEFENSE,0.14722475051732026,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-11-30,BWXT,DEFENSE,0.011251569572507204,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2023-11-30,AVAV,DEFENSE,0.09516037585878075,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-11-30,DECK,CONSUMER_DISCRETIONARY,0.11285688465236028,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-11-30,CHD,CONSUMER_STAPLES,0.14949416982187066,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2023-11-30,MLM,MATERIALS,0.03210851769087125,"Ticker
+MLM    0.239425
+dtype: float64","Ticker
+MLM    0.277983
+dtype: float64"
+2023-12-31,SNPS,TECH,0.038825763707815174,"Ticker
+SNPS    0.253943
+dtype: float64","Ticker
+SNPS    0.35592
+dtype: float64"
+2023-12-31,NTNX,TECH,0.17537477329519116,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2023-12-31,NBIX,PHARMA,0.042229100365273685,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2023-12-31,INSM,PHARMA,0.14446102459953478,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2023-12-31,AMGN,PHARMA,0.0657728895371195,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2023-12-31,VRTX,PHARMA,0.042028707537356706,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2023-12-31,SM,ENERGY,0.02096175249375628,"Ticker
+SM    0.563052
+dtype: float64","Ticker
+SM    0.676002
+dtype: float64"
+2023-12-31,HII,DEFENSE,0.028685622640137756,"Ticker
+HII    0.129626
+dtype: float64","Ticker
+HII    0.298074
+dtype: float64"
+2023-12-31,TDG,DEFENSE,0.099539432011902,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2023-12-31,KTOS,DEFENSE,0.06762806091290452,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2023-12-31,AVAV,DEFENSE,0.022349496100366358,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2023-12-31,ITT,INDUSTRIALS,0.06228066539452387,"Ticker
+ITT    0.229731
+dtype: float64","Ticker
+ITT    0.288594
+dtype: float64"
+2023-12-31,DECK,CONSUMER_DISCRETIONARY,0.08612000004280788,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2023-12-31,MLM,MATERIALS,0.10374271136141039,"Ticker
+MLM    0.239425
+dtype: float64","Ticker
+MLM    0.277983
+dtype: float64"
+2024-01-31,NTNX,TECH,0.1411063787189151,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-01-31,VTRS,PHARMA,0.05784823524740989,"Ticker
+VTRS   -0.048485
+dtype: float64","Ticker
+VTRS    0.341892
+dtype: float64"
+2024-01-31,NBIX,PHARMA,0.15317508549463948,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-01-31,INSM,PHARMA,0.023796478281037335,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-01-31,AMGN,PHARMA,0.20663097400449193,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2024-01-31,REGN,PHARMA,0.006303709750898504,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-01-31,TDG,DEFENSE,0.12248394467314198,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-01-31,CW,DEFENSE,0.04429517089070777,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2024-01-31,LDOS,DEFENSE,0.08573770639186709,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-01-31,ITT,INDUSTRIALS,0.03813443281758328,"Ticker
+ITT    0.229731
+dtype: float64","Ticker
+ITT    0.288594
+dtype: float64"
+2024-01-31,DECK,CONSUMER_DISCRETIONARY,0.12048788372944268,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-02-29,NTNX,TECH,0.15589984369366106,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-02-29,VTRS,PHARMA,0.03430738259469823,"Ticker
+VTRS   -0.048485
+dtype: float64","Ticker
+VTRS    0.341892
+dtype: float64"
+2024-02-29,NBIX,PHARMA,0.058647862638528565,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-02-29,INSM,PHARMA,0.014066171268370243,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-02-29,AMGN,PHARMA,0.012834407309331802,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2024-02-29,REGN,PHARMA,0.06313010692232082,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-02-29,VRTX,PHARMA,0.01133238244749119,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-02-29,FANG,ENERGY,0.16220550110715865,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-02-29,TDG,DEFENSE,0.07357654403908659,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-02-29,LDOS,DEFENSE,0.19642721926195028,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-02-29,BWXT,DEFENSE,0.06274473208048698,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2024-02-29,DECK,CONSUMER_DISCRETIONARY,0.11165052671433282,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-02-29,PVH,CONSUMER_DISCRETIONARY,0.03735373677142817,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2024-02-29,CHD,CONSUMER_STAPLES,0.005823583151019549,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-03-31,NTNX,TECH,0.12386371641407076,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-03-31,NBIX,PHARMA,0.06676670323225867,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-03-31,AMGN,PHARMA,0.016418415005490888,"Ticker
+AMGN    0.072347
+dtype: float64","Ticker
+AMGN    0.234188
+dtype: float64"
+2024-03-31,REGN,PHARMA,0.15201273649418096,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-03-31,FANG,ENERGY,0.16380232365392372,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-03-31,TDG,DEFENSE,0.07290955756474687,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-03-31,LDOS,DEFENSE,0.13009897027963377,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-03-31,BWXT,DEFENSE,0.008646701043189797,"Ticker
+BWXT    0.260323
+dtype: float64","Ticker
+BWXT    0.294112
+dtype: float64"
+2024-03-31,AXON,DEFENSE,0.04867225308081605,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-03-31,AVAV,DEFENSE,0.03236570702555125,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-03-31,DKS,CONSUMER_DISCRETIONARY,0.03867785373835441,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-03-31,DECK,CONSUMER_DISCRETIONARY,0.08760406597383964,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-03-31,PVH,CONSUMER_DISCRETIONARY,0.020270191554748764,"Ticker
+PVH    0.072398
+dtype: float64","Ticker
+PVH    0.488041
+dtype: float64"
+2024-03-31,CHD,CONSUMER_STAPLES,0.03789080493920155,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-04-30,NTNX,TECH,0.11880677125087927,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-04-30,FANG,ENERGY,0.1259609736139818,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-04-30,TDG,DEFENSE,0.11577575625187901,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-04-30,LDOS,DEFENSE,0.19072212508174988,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-04-30,AXON,DEFENSE,0.03302049619960125,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-04-30,AVAV,DEFENSE,0.03162229552289964,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-04-30,DKS,CONSUMER_DISCRETIONARY,0.08303680469847631,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-04-30,DECK,CONSUMER_DISCRETIONARY,0.035433442745043786,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-04-30,CPB,CONSUMER_STAPLES,0.010155339583337508,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-04-30,CHD,CONSUMER_STAPLES,0.10793671610069547,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-04-30,KHC,CONSUMER_STAPLES,0.12388755751888655,"Ticker
+KHC   -0.007182
+dtype: float64","Ticker
+KHC    0.222246
+dtype: float64"
+2024-04-30,FITB,FINANCIALS,0.023641721432752092,"Ticker
+FITB    0.200183
+dtype: float64","Ticker
+FITB    0.339205
+dtype: float64"
+2024-05-31,NTNX,TECH,0.012389188428549639,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-05-31,INSM,PHARMA,0.018754628871176272,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-05-31,VRTX,PHARMA,0.05226163524404337,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-05-31,FANG,ENERGY,0.07508989549582057,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-05-31,TDG,DEFENSE,0.1363589600690305,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-05-31,LDOS,DEFENSE,0.24873156456521942,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-05-31,AVAV,DEFENSE,0.031167212397667857,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-05-31,XYL,INDUSTRIALS,0.13525793065280525,"Ticker
+XYL    0.135729
+dtype: float64","Ticker
+XYL    0.26118
+dtype: float64"
+2024-05-31,DKS,CONSUMER_DISCRETIONARY,0.07880770087236715,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-05-31,DECK,CONSUMER_DISCRETIONARY,0.0812193844050688,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-05-31,SKX,CONSUMER_DISCRETIONARY,0.012419544691813127,"Ticker
+SKX    0.163586
+dtype: float64","Ticker
+SKX    0.398741
+dtype: float64"
+2024-05-31,TPR,CONSUMER_DISCRETIONARY,0.00043482451258716325,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-05-31,CPB,CONSUMER_STAPLES,0.029975629483370056,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-05-31,CHD,CONSUMER_STAPLES,0.07264327272524257,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-05-31,FCX,MATERIALS,0.014488627585809046,"Ticker
+FCX    0.262964
+dtype: float64","Ticker
+FCX    0.453626
+dtype: float64"
+2024-06-30,MPWR,TECH,0.019068257748815966,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-06-30,NTNX,TECH,0.025915354891732145,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-06-30,INSM,PHARMA,0.023608785033279414,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-06-30,REGN,PHARMA,0.08339761695084315,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-06-30,VRTX,PHARMA,0.022057347503737907,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-06-30,TDG,DEFENSE,0.12342976784153963,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-06-30,LDOS,DEFENSE,0.219626857391537,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-06-30,AVAV,DEFENSE,0.024770757483501306,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-06-30,DKS,CONSUMER_DISCRETIONARY,0.0676416391189912,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-06-30,DECK,CONSUMER_DISCRETIONARY,0.05876880205533864,"Ticker
+DECK    0.23937
+dtype: float64","Ticker
+DECK    0.426866
+dtype: float64"
+2024-06-30,TPR,CONSUMER_DISCRETIONARY,0.033179340444551446,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-06-30,MKC,CONSUMER_STAPLES,0.004363777981067904,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2024-06-30,CPB,CONSUMER_STAPLES,0.08382858719941154,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-06-30,CHD,CONSUMER_STAPLES,0.06224947664381307,"Ticker
+CHD    0.004708
+dtype: float64","Ticker
+CHD    0.200844
+dtype: float64"
+2024-06-30,FITB,FINANCIALS,0.009508951219941051,"Ticker
+FITB    0.200183
+dtype: float64","Ticker
+FITB    0.339205
+dtype: float64"
+2024-06-30,DUK,UTILITIES,0.016520990555612357,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2024-06-30,ECL,MATERIALS,0.07723865531399532,"Ticker
+ECL    0.087874
+dtype: float64","Ticker
+ECL    0.245122
+dtype: float64"
+2024-06-30,NUE,MATERIALS,0.02098721742938185,"Ticker
+NUE    0.280128
+dtype: float64","Ticker
+NUE    0.389583
+dtype: float64"
+2024-06-30,FCX,MATERIALS,0.0238378171930591,"Ticker
+FCX    0.262964
+dtype: float64","Ticker
+FCX    0.453626
+dtype: float64"
+2024-07-31,MPWR,TECH,0.0177730685741369,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-07-31,SMTC,TECH,0.011273514738692763,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-07-31,NTNX,TECH,0.014580850337253854,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-07-31,VTRS,PHARMA,0.006624903902554527,"Ticker
+VTRS   -0.048485
+dtype: float64","Ticker
+VTRS    0.341892
+dtype: float64"
+2024-07-31,NBIX,PHARMA,0.024001172810153678,"Ticker
+NBIX    0.026498
+dtype: float64","Ticker
+NBIX    0.352501
+dtype: float64"
+2024-07-31,INSM,PHARMA,0.02337991033723866,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-07-31,REGN,PHARMA,0.12096996857448938,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-07-31,VRTX,PHARMA,0.09806693500027756,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-07-31,FANG,ENERGY,0.08312566094561105,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-07-31,TDG,DEFENSE,0.013697898933913722,"Ticker
+TDG    0.262196
+dtype: float64","Ticker
+TDG    0.287537
+dtype: float64"
+2024-07-31,CW,DEFENSE,0.08476845346490652,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2024-07-31,HEI,DEFENSE,0.020187642916060712,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-07-31,LDOS,DEFENSE,0.1933430489608036,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-07-31,AXON,DEFENSE,0.008963823752361781,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-07-31,AVAV,DEFENSE,0.0067981888805147255,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-07-31,DKS,CONSUMER_DISCRETIONARY,0.06578148051536281,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-07-31,CPB,CONSUMER_STAPLES,0.07658179887004882,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-07-31,FITB,FINANCIALS,0.050070812901827126,"Ticker
+FITB    0.200183
+dtype: float64","Ticker
+FITB    0.339205
+dtype: float64"
+2024-07-31,DUK,UTILITIES,0.08001086558508015,"Ticker
+DUK    0.125994
+dtype: float64","Ticker
+DUK    0.185594
+dtype: float64"
+2024-08-31,MPWR,TECH,0.007133241857171126,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-08-31,FTNT,TECH,0.022810466510265436,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-08-31,NTNX,TECH,0.024031054037978852,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2024-08-31,INSM,PHARMA,0.023595301507822113,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-08-31,REGN,PHARMA,0.12469914444106736,"Ticker
+REGN   -0.012848
+dtype: float64","Ticker
+REGN    0.300165
+dtype: float64"
+2024-08-31,VRTX,PHARMA,0.06135998359117127,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-08-31,FANG,ENERGY,0.023000221245847528,"Ticker
+FANG    0.311581
+dtype: float64","Ticker
+FANG    0.460193
+dtype: float64"
+2024-08-31,HEI,DEFENSE,0.08281992016878278,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-08-31,LDOS,DEFENSE,0.2372277171311179,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-08-31,AXON,DEFENSE,0.010155778223654542,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-08-31,AVAV,DEFENSE,0.01815461130314103,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-08-31,DKS,CONSUMER_DISCRETIONARY,0.05473177324002966,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-08-31,CPB,CONSUMER_STAPLES,0.12207875160729512,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-08-31,MTB,FINANCIALS,0.00280292072187343,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-08-31,SO,UTILITIES,0.07784863896156963,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2024-08-31,PEG,UTILITIES,0.10755047544510345,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-09-30,MPWR,TECH,0.01296254906990952,"Ticker
+MPWR    0.250549
+dtype: float64","Ticker
+MPWR    0.531304
+dtype: float64"
+2024-09-30,FTNT,TECH,0.013034503373055369,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-09-30,SMTC,TECH,0.016550855019713165,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-09-30,INSM,PHARMA,0.025956490648673503,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-09-30,HEI,DEFENSE,0.10581025125398393,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-09-30,LDOS,DEFENSE,0.22567663327918794,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-09-30,AXON,DEFENSE,0.03262762136235828,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-09-30,AVAV,DEFENSE,0.0026344214194822862,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-09-30,DKS,CONSUMER_DISCRETIONARY,0.038043542342279704,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-09-30,MKC,CONSUMER_STAPLES,0.025992963092786113,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2024-09-30,CPB,CONSUMER_STAPLES,0.035048840482182875,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-09-30,GIS,CONSUMER_STAPLES,0.0817808904698279,"Ticker
+GIS   -0.017836
+dtype: float64","Ticker
+GIS    0.204798
+dtype: float64"
+2024-09-30,MTB,FINANCIALS,0.0023225406398041425,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-09-30,SO,UTILITIES,0.09236553621429619,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2024-09-30,PEG,UTILITIES,0.2891923613328765,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-10-31,FTNT,TECH,0.004274151172164655,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-10-31,SMTC,TECH,0.03193196094419097,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-10-31,INSM,PHARMA,0.025574599249147446,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-10-31,VRTX,PHARMA,0.0073699420562224,"Ticker
+VRTX    0.075121
+dtype: float64","Ticker
+VRTX    0.301151
+dtype: float64"
+2024-10-31,LDOS,DEFENSE,0.2151450336851754,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-10-31,AXON,DEFENSE,0.05628005322080514,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-10-31,AVAV,DEFENSE,0.01232081121586793,"Ticker
+AVAV    0.247544
+dtype: float64","Ticker
+AVAV    0.524691
+dtype: float64"
+2024-10-31,DKS,CONSUMER_DISCRETIONARY,0.010885788286926604,"Ticker
+DKS    0.418027
+dtype: float64","Ticker
+DKS    0.445978
+dtype: float64"
+2024-10-31,CPB,CONSUMER_STAPLES,0.05728873035228892,"Ticker
+CPB   -0.060124
+dtype: float64","Ticker
+CPB    0.229926
+dtype: float64"
+2024-10-31,MTB,FINANCIALS,0.06500373746334344,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-10-31,RJF,FINANCIALS,0.038935115553250174,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2024-10-31,SO,UTILITIES,0.15076782503560165,"Ticker
+SO    0.161561
+dtype: float64","Ticker
+SO    0.189358
+dtype: float64"
+2024-10-31,PEG,UTILITIES,0.24217793926521564,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-10-31,APD,MATERIALS,0.08204431249908885,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2024-11-30,FTNT,TECH,0.01534551240545175,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-11-30,SMTC,TECH,0.05716038739702068,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-11-30,INSM,PHARMA,0.025133448869897587,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-11-30,HEI,DEFENSE,0.08778385678232271,"Ticker
+HEI    0.24198
+dtype: float64","Ticker
+HEI    0.270262
+dtype: float64"
+2024-11-30,LDOS,DEFENSE,0.056765204480938566,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-11-30,AXON,DEFENSE,0.05089941331574533,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-11-30,TPR,CONSUMER_DISCRETIONARY,0.01992912793649929,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-11-30,CLX,CONSUMER_STAPLES,0.014591274541047285,"Ticker
+CLX   -0.089311
+dtype: float64","Ticker
+CLX    0.254725
+dtype: float64"
+2024-11-30,MTB,FINANCIALS,0.09693593054814544,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-11-30,RJF,FINANCIALS,0.02065704959295142,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2024-11-30,XEL,UTILITIES,0.2609033114675465,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2024-11-30,PEG,UTILITIES,0.15422136261009614,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-11-30,APD,MATERIALS,0.13967412005266086,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2024-12-31,FTNT,TECH,0.05782743493257731,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2024-12-31,SMTC,TECH,0.03831072015394453,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2024-12-31,INSM,PHARMA,0.035546284206306164,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2024-12-31,CW,DEFENSE,0.025417893273019607,"Ticker
+CW    0.363991
+dtype: float64","Ticker
+CW    0.279377
+dtype: float64"
+2024-12-31,LDOS,DEFENSE,0.055606494303787474,"Ticker
+LDOS    0.156297
+dtype: float64","Ticker
+LDOS    0.260302
+dtype: float64"
+2024-12-31,MRCY,DEFENSE,0.02669319616674063,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2024-12-31,AXON,DEFENSE,0.057438735362802675,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2024-12-31,TPR,CONSUMER_DISCRETIONARY,0.1807856325006601,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2024-12-31,CLX,CONSUMER_STAPLES,0.09136293543740112,"Ticker
+CLX   -0.089311
+dtype: float64","Ticker
+CLX    0.254725
+dtype: float64"
+2024-12-31,MTB,FINANCIALS,0.019359036798720888,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2024-12-31,RJF,FINANCIALS,0.0028555527294375953,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2024-12-31,XEL,UTILITIES,0.19030440596723167,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2024-12-31,PEG,UTILITIES,0.09123053498239124,"Ticker
+PEG    0.131176
+dtype: float64","Ticker
+PEG    0.208917
+dtype: float64"
+2024-12-31,WEC,UTILITIES,0.022360636399982654,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2024-12-31,APD,MATERIALS,0.1049005067855751,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-01-31,FTNT,TECH,0.07956861951084983,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2025-01-31,SMTC,TECH,0.012903931358610905,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2025-01-31,INSM,PHARMA,0.03847640408831295,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2025-01-31,HRMY,PHARMA,0.0037791263112374493,"Ticker
+HRMY   -0.000762
+dtype: float64","Ticker
+HRMY    0.536614
+dtype: float64"
+2025-01-31,KTOS,DEFENSE,0.00978139015584237,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-01-31,AXON,DEFENSE,0.05689351269854229,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-01-31,RH,CONSUMER_DISCRETIONARY,0.004282454098933132,"Ticker
+RH   -0.057877
+dtype: float64","Ticker
+RH    0.599531
+dtype: float64"
+2025-01-31,TPR,CONSUMER_DISCRETIONARY,0.15259675289888036,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-01-31,CLX,CONSUMER_STAPLES,0.19887129223288819,"Ticker
+CLX   -0.089311
+dtype: float64","Ticker
+CLX    0.254725
+dtype: float64"
+2025-01-31,MTB,FINANCIALS,0.02536093524023672,"Ticker
+MTB    0.160556
+dtype: float64","Ticker
+MTB    0.346238
+dtype: float64"
+2025-01-31,RJF,FINANCIALS,0.07901318306819696,"Ticker
+RJF    0.286353
+dtype: float64","Ticker
+RJF    0.285538
+dtype: float64"
+2025-01-31,XEL,UTILITIES,0.044627978819014556,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2025-01-31,WEC,UTILITIES,0.15382663341524636,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-01-31,APD,MATERIALS,0.08918510391759502,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-01-31,CF,MATERIALS,0.050832682187359604,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2025-02-28,FTNT,TECH,0.11049218723260376,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2025-02-28,SMTC,TECH,9.326748930139623e-05,"Ticker
+SMTC   -0.045542
+dtype: float64","Ticker
+SMTC    0.592636
+dtype: float64"
+2025-02-28,NTNX,TECH,0.06397601081501135,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2025-02-28,MRCY,DEFENSE,0.030199699921910454,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2025-02-28,TPR,CONSUMER_DISCRETIONARY,0.18705829615989839,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-02-28,MKC,CONSUMER_STAPLES,0.02766725327393311,"Ticker
+MKC   -0.053936
+dtype: float64","Ticker
+MKC    0.227252
+dtype: float64"
+2025-02-28,XEL,UTILITIES,0.0871247701673535,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2025-02-28,WEC,UTILITIES,0.4154705078681869,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-02-28,APD,MATERIALS,0.008116205038093982,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-02-28,CF,MATERIALS,0.06980180203386928,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2025-03-31,FTNT,TECH,0.08645436592992821,"Ticker
+FTNT    0.251993
+dtype: float64","Ticker
+FTNT    0.431959
+dtype: float64"
+2025-03-31,NTNX,TECH,0.04426597394096333,"Ticker
+NTNX    0.26669
+dtype: float64","Ticker
+NTNX    0.503963
+dtype: float64"
+2025-03-31,EQT,ENERGY,0.05819077223250405,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-03-31,KTOS,DEFENSE,0.034265992910198356,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-03-31,TPR,CONSUMER_DISCRETIONARY,0.16206514398748942,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-03-31,EXC,UTILITIES,0.007013290681690973,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-03-31,XEL,UTILITIES,0.03271383153431834,"Ticker
+XEL    0.036885
+dtype: float64","Ticker
+XEL    0.210001
+dtype: float64"
+2025-03-31,WEC,UTILITIES,0.5045750682409452,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-03-31,APD,MATERIALS,0.019252659195001545,"Ticker
+APD    0.024946
+dtype: float64","Ticker
+APD    0.262719
+dtype: float64"
+2025-03-31,CF,MATERIALS,0.051202901321587654,"Ticker
+CF    0.229464
+dtype: float64","Ticker
+CF    0.374421
+dtype: float64"
+2025-04-30,EQT,ENERGY,0.06930000748067644,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-04-30,KTOS,DEFENSE,0.1410247785497329,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-04-30,AXON,DEFENSE,0.021535242751225356,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-04-30,TPR,CONSUMER_DISCRETIONARY,0.23765237503617398,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-04-30,EXC,UTILITIES,0.4973419842074447,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-04-30,ED,UTILITIES,0.021836564975229955,"Ticker
+ED    0.104254
+dtype: float64","Ticker
+ED    0.192212
+dtype: float64"
+2025-04-30,WEC,UTILITIES,0.01130904700181233,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-05-31,EQT,ENERGY,0.09509028048628304,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-05-31,KTOS,DEFENSE,0.09490044888025571,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-05-31,MRCY,DEFENSE,0.029037830057226675,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2025-05-31,AXON,DEFENSE,0.07259417413015153,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-05-31,TPR,CONSUMER_DISCRETIONARY,0.2431949198117574,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-05-31,EXC,UTILITIES,0.1303848520047572,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-05-31,WEC,UTILITIES,0.223760011232902,"Ticker
+WEC    0.066018
+dtype: float64","Ticker
+WEC    0.197577
+dtype: float64"
+2025-05-31,MOS,MATERIALS,0.11103748340036271,"Ticker
+MOS    0.149101
+dtype: float64","Ticker
+MOS    0.42673
+dtype: float64"
+2025-06-30,INSM,PHARMA,0.02612153427718636,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2025-06-30,EQT,ENERGY,0.06617453275249588,"Ticker
+EQT    0.269255
+dtype: float64","Ticker
+EQT    0.467437
+dtype: float64"
+2025-06-30,KTOS,DEFENSE,0.15545209523774622,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-06-30,MRCY,DEFENSE,0.08433965373607245,"Ticker
+MRCY   -0.030587
+dtype: float64","Ticker
+MRCY    0.438757
+dtype: float64"
+2025-06-30,AXON,DEFENSE,0.03748680199849939,"Ticker
+AXON    0.570636
+dtype: float64","Ticker
+AXON    0.465215
+dtype: float64"
+2025-06-30,TPR,CONSUMER_DISCRETIONARY,0.29138095841565126,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-06-30,AEP,UTILITIES,0.05168404055969262,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2025-06-30,EXC,UTILITIES,0.19077189245776943,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-06-30,MOS,MATERIALS,0.09658849056497608,"Ticker
+MOS    0.149101
+dtype: float64","Ticker
+MOS    0.42673
+dtype: float64"
+2025-07-31,INSM,PHARMA,0.02593355160933431,"Ticker
+INSM    0.358294
+dtype: float64","Ticker
+INSM    0.73158
+dtype: float64"
+2025-07-31,HII,DEFENSE,0.077881882706755,"Ticker
+HII    0.129626
+dtype: float64","Ticker
+HII    0.298074
+dtype: float64"
+2025-07-31,KTOS,DEFENSE,0.16317566858731183,"Ticker
+KTOS    0.285773
+dtype: float64","Ticker
+KTOS    0.465002
+dtype: float64"
+2025-07-31,TPR,CONSUMER_DISCRETIONARY,0.2957583206424664,"Ticker
+TPR    0.484476
+dtype: float64","Ticker
+TPR    0.412307
+dtype: float64"
+2025-07-31,AEP,UTILITIES,0.18545818746863182,"Ticker
+AEP    0.106617
+dtype: float64","Ticker
+AEP    0.199842
+dtype: float64"
+2025-07-31,EXC,UTILITIES,0.15573787055375482,"Ticker
+EXC    0.149184
+dtype: float64","Ticker
+EXC    0.213214
+dtype: float64"
+2025-07-31,MOS,MATERIALS,0.0343127616825432,"Ticker
+MOS    0.149101
+dtype: float64","Ticker
+MOS    0.42673
+dtype: float64"
+2025-07-31,NEM,MATERIALS,0.061741756749715056,"Ticker
+NEM    0.03605
+dtype: float64","Ticker
+NEM    0.345062
+dtype: float64"
