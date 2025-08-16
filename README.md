@@ -1,2 +1,1 @@
-# Portfolio-Optimizer
-Attempt at Financial Technology
+Attempt at financial technology
