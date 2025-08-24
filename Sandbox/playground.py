@@ -1,4 +1,4 @@
-# Portfolio Optimization Framework - v2 (using yfinance instead of cvs for stock data)
+ # Portfolio Optimization Framework - v2 (using yfinance instead of cvs for stock data)
 
 import numpy as np
 import pandas as pd
