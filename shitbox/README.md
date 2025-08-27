@@ -16,7 +16,7 @@ I'm just going to send some ungodly attempts at Fintech. This *shitbox* is going
 
 There is an immediate constraint or drawback visible in 3. If a stock is more or less an "underdog", the credibility of the publications about it is hard to be established. To address this, the following heuristic is incorporated as a statistically measure that is going to be used when considering the stock in the portfolio. 
 
-Score = (sortino * gamma * momentum) / volatility or (sortino * momentum * volatility) / gamma
+Score = f(sortino, gamma, market momentum, volatility)
 
 where gamma = rolling sentiment.
 
