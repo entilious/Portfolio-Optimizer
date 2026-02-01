@@ -1,4 +1,4 @@
 Portfolio Optimizer
 
 
-Attempt at financial technology
+Generational wealth or generational debt? Stay tuned to find out
